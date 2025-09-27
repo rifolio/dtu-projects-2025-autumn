@@ -30,7 +30,7 @@
 * [[Glenn Tipton]]
 * [[Scott Travis]]
 * [[Richie Faulkner]]
-<!-- Andy Sneap is not a member of the band, he is a touring guitarist. -->
+* [[Andy Sneap]]
 }}
 | past_members      = {{Plainlist|
 * [[Al Atkins]]
@@ -249,9 +249,7 @@ File:Andy Sneap au Hellfest 2022.jpg|[[Andy Sneap|Sneap]]
 * [[Glenn Tipton]] – guitars, backing vocals, keyboards (1974–1992, 1996–present)
 * [[Scott Travis]] – drums, occasional backing vocals (1989–1992, 1996–present)<ref>{{Cite web |url=https://ultimateclassicrock.com/judas-priest-albums-without-kk-downing/ |title=Why K.K. Downing is 'Surprised' by Judas Priest's Recent Output |date=2 September 2021 |publisher=Ultimate Classic Rock}}</ref>
 * [[Richie Faulkner]] – guitars, backing vocals (2011–present)
-
-'''Current touring/session musicians'''
-* [[Andy Sneap]] – guitars, backing vocals (2018–2022, 2022–present){{efn|He briefly departed for 5 days in 2022.}}
+* [[Andy Sneap]] – guitars, backing vocals (2018–2022, 2022–present){{efn|He briefly departed for 5 days in 2022.}} <ref>{{Cite web |url=https://shop.spotify.com/en-us/artist/2tRsMl4eGxwoNabM08Dm4I/product/war-pigs-cd-single?utm_source=spotify&utm_medium=app-release&utm_term=00a4666b1ebf66e7417e497bc5236330bcffd76c177174beb08380 |title=War Pigs (Ozzy and Judas Priest Charity Single) |date=26 September 2025 |publisher=Judas Priest}}</ref>
 
 ;Timeline
 {{transcluded section|source=<!-- List of Judas Priest members -->List of Judas Priest band members}}{{#tag:timeline|ImageSize=width:960 height:auto barincrement:20 

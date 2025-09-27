@@ -7,12 +7,12 @@
 | name               = Frank Zappa
 | image              = Zappa 16011977 01 300.jpg
 | alt                = 
-| caption            = Zappa performing at [[Ekeberghallen]] in [[Oslo]], [[Norway]] in 1977
+| caption            = Zappa performing at [[Ekeberghallen]] in [[Oslo]], Norway, in 1977
 | birth_name         = Frank Vincent Zappa
 | birth_date         = {{birth date|1940|12|21|mf=y}}
-| birth_place        = [[Baltimore]], [[Maryland]], U.S.
+| birth_place        = [[Baltimore]], Maryland, U.S.
 | death_date         = {{death date and age|1993|12|4|1940|12|21|mf=y}}
-| death_place        = [[Los Angeles]], [[California]], U.S.
+| death_place        = [[Los Angeles]], California, U.S.
 | resting_place      = [[Pierce Brothers Westwood Village Memorial Park and Mortuary]]
 | occupation         = {{hlist|Composer|songwriter|conductor|actor|filmmaker}}
 | years_active       = 1955–1993

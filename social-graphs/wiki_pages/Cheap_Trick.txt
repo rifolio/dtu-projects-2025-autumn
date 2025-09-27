@@ -259,7 +259,7 @@ ScaleMinor = increment:1 start:1974
 
 Colors =
   id:lv      value:red         legend:Lead_vocals,_rhythm_guitar
-  id:lg      value:green       legend:Lead_guitar,_keyboards,_backing_and_occasional_lead_vocals
+  id:lg      value:green       legend:Lead_guitar,_keyboards,_backing_vocals
   id:b       value:blue        legend:Bass,_backing_vocals
   id:dr      value:orange      legend:Drums,_percussion
   id:alb     value:black       legend:Studio_albums

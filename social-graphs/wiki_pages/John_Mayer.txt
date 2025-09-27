@@ -11,9 +11,7 @@
 | birth_name        = John Clayton Mayer
 | birth_date        = {{Birth date and age|1977|10|16}}
 | birth_place       = [[Bridgeport, Connecticut]], U.S.
-{{Infobox person 
-| child = yes
-| education = [[Fairfield Warde High School]]}}
+| education = [[Fairfield Warde High School]]
 | occupation        = {{Flatlist|
 * Singer
 * songwriter

@@ -26,17 +26,11 @@
 *[[PIAS Recordings|PIAS]]
 *[[BMG Rights Management|BMG]]
 }}
-| associated_acts   = {{flatlist|
-*[[The Amps]]
+| spinoffs   = {{flatlist|
 *[[The Breeders]]
 *[[Frank Black and the Catholics]]
 *[[Grand Duchy (band)|Grand Duchy]]
 *[[The Martinis]]
-*[[The Muffs]]
-*[[The Pandoras]]
-*[[A Perfect Circle]]
-*[[The Entrance Band]]
-*[[Band of Skulls]]
 }}
 | current_members   = *[[Black Francis]]
 *[[Joey Santiago]]

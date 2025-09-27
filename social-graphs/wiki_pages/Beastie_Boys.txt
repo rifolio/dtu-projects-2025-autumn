@@ -331,8 +331,8 @@ LineData=
  at:12/23/2008 color:ep
 BarData=
   bar:AWOL          text:"AWOL"
-  bar:Alfredo       text:"Alfredo Ortiz"
   bar:Eric          text:"Eric Bobo"
+  bar:Alfredo       text:"Alfredo Ortiz"
   bar:Double        text:"DJ Double R"
   Bar:Sam        text:"Sam Sever"
   bar:Dré           text:"Doctor Dré"
@@ -341,11 +341,13 @@ BarData=
   bar:Mark          text:"Money Mark"
 PlotData =
  width:11
- bar:AWOL            from:01/01/1994 till:12/31/1995  color:drums
- bar:AWOL            from:01/01/1994 till:12/31/1995  color:bvocals  width:3
- bar:AWOL            from:01/01/1994 till:12/31/1995  color:perc    width:7
- bar:Alfredo         from:01/01/1996 till:05/04/2012  color:drums
- bar:Alfredo         from:01/01/1996 till:05/04/2012  color:perc    width:3
+ bar:AWOL            from:01/01/1994 till:12/31/1997  color:drums
+ bar:AWOL            from:01/01/1994 till:12/31/1997  color:bvocals  width:3
+ bar:AWOL            from:01/01/1994 till:12/31/1997  color:perc    width:7
+ bar:Alfredo         from:01/01/1996 till:12/31/1997  color:perc
+ bar:Alfredo         from:01/01/1996 till:12/31/1997  color:drums width:3
+ bar:Alfredo         from:01/01/1998 till:05/04/2012  color:drums
+ bar:Alfredo         from:01/01/1998 till:05/04/2012  color:perc    width:3
  bar:Eric            from:01/01/1992 till:01/01/1996  color:perc
  bar:Eric            from:01/01/1992 till:01/01/1996  color:drums   width:3
  bar:Mark            from:01/01/1992 till:05/04/2012  color:keys

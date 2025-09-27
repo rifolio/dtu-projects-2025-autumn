@@ -305,6 +305,13 @@ PlotData=
 | —
 |
 |-
+! scope="row" | "Ricochet"
+| rowspan="3"| 2018
+| 7
+| —
+| —
+| 49
+|-
 ! scope="row" | "Manifest"
 | 2019
 | 50
@@ -420,13 +427,6 @@ PlotData=
 | —
 | —
 | —
-|-
-! scope="row" | "Ricochet"
-| rowspan="3"| 2018
-| 7
-| —
-| —
-| 49
 |-
 ! scope="row"| "Bringing It Down" (Version 2.0)
 | —
@@ -671,13 +671,13 @@ PlotData=
 | Christopher Phelps
 |-
 ! {{nobold|"Shattered Dreams"}}
-| rowspan="3" {{Unknown}}
+| {{Unknown}}
 |-
 ! {{nobold|"Ad Astra"}}
+| rowspan="2"| Scotty Felix
 |-
 ! {{nobold|"Sway"}}
 |-
-
 |}
 
 ==See also==

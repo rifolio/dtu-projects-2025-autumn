@@ -38,8 +38,8 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
       table2 = table.copy()
       table2["new_src"] = table["trg"]
       table2["new_trg"] = table["src"]
-      table2.drop("src", 1, inplace = True)
-      table2.drop("trg", 1, inplace = True)
+      table2.drop("src", axis=1, inplace = True)
+      table2.drop("trg", axis=1, inplace = True)
       table2 = table2.rename(columns = {"new_src": "src", "new_trg": "trg"})
       table = pd.concat([table, table2], axis = 0)
       table = table.drop_duplicates(subset = ["src", "trg"])
@@ -196,9 +196,9 @@ def disparity_filter(table, undirected = False, return_self_loops = False):
       table = table.merge(table_maxscore, on = "edge", suffixes = ("_min", ""))
       table = table.merge(table_minvar, on = "edge", suffixes = ("_max", ""))
       table = table.drop_duplicates(subset = ["edge"])
-      table = table.drop("edge", 1)
-      table = table.drop("score_min", 1)
-      table = table.drop("variance_max", 1)
+      table = table.drop("edge", axis=1)
+      table = table.drop("score_min", axis=1)
+      table = table.drop("variance_max", axis=1)
    return table[["src", "trg", "nij", "score", "variance"]]
 
 def high_salience_skeleton(table, undirected = False, return_self_loops = False):
@@ -241,8 +241,8 @@ def high_salience_skeleton(table, undirected = False, return_self_loops = False)
       table_maxscore = table.groupby(by = "edge")["score"].sum().reset_index()
       table = table.merge(table_maxscore, on = "edge", suffixes = ("_min", ""))
       table = table.drop_duplicates(subset = ["edge"])
-      table = table.drop("edge", 1)
-      table = table.drop("score_min", 1)
+      table = table.drop("edge", axis=1)
+      table = table.drop("score_min", axis=1)
       table["score"] = table["score"] / 2.0
    return table[["src", "trg", "nij", "score"]]
 
@@ -257,8 +257,8 @@ def naive(table, undirected = False, return_self_loops = False):
       table_maxscore = table.groupby(by = "edge")["score"].sum().reset_index()
       table = table.merge(table_maxscore, on = "edge", suffixes = ("_min", ""))
       table = table.drop_duplicates(subset = ["edge"])
-      table = table.drop("edge", 1)
-      table = table.drop("score_min", 1)
+      table = table.drop("edge", axis=1)
+      table = table.drop("score_min", axis=1)
       table["score"] = table["score"] / 2.0
    return table[["src", "trg", "nij", "score"]]
 
@@ -275,5 +275,5 @@ def maximum_spanning_tree(table, undirected = False):
    if undirected:
       table["edge"] = table.apply(lambda x: "%s-%s" % (min(x["src"], x["trg"]), max(x["src"], x["trg"])), axis = 1)
       table = table.drop_duplicates(subset = ["edge"])
-      table = table.drop("edge", 1)
+      table = table.drop("edge", axis=1)
    return table[["src", "trg", "nij", "score"]]

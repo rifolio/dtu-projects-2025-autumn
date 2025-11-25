@@ -25,7 +25,7 @@
     "Man'S Voice",
     "Second Threepio"
   ],
-  "Creature'S House": [
+  "Creature's House": [
     "Ben'S Voice",
     "Creature",
     "Luke Skywalker",
@@ -39,14 +39,9 @@
     "Strange Voice",
     "Yoda"
   ],
-  "Darth Vader'S Cockpit": [
+  "Darth Vader's Cockpit": [
     "Darth Vader",
     "Wingman'S Voice"
-  ],
-  "Darth Vader'S Star Destroyer": [
-    "Darth Vader",
-    "Ozzel",
-    "Piett"
   ],
   "Death Star": [
     "Area",
@@ -88,7 +83,7 @@
     "Darth Vader",
     "Luke Skywalker"
   ],
-  "Gold Leader'S Cockpit": [
+  "Gold Leader's Cockpit": [
     "Gold Leader",
     "Red Leader"
   ],
@@ -112,13 +107,10 @@
   ],
   "Imperial Star Destroyer": [
     "Captain",
+    "Chief Pilot",
     "Controller"
   ],
-  "Imperial Stardestroyer": [
-    "Captain",
-    "Chief Pilot"
-  ],
-  "Kenobi'S Dwelling": [
+  "Kenobi's Dwelling": [
     "C-3PO",
     "Leia Organa",
     "Luke Skywalker",
@@ -137,29 +129,21 @@
     "Luke Skywalker",
     "Owen Lars"
   ],
-  "Luke'S Snowspeeder, Rogue Leader": [
+  "Luke's Snowspeeder, Rogue Leader": [
     "Dack",
     "Luke Skywalker"
   ],
-  "Luke'S X-Wing": [
-    "Luke Skywalker",
-    "Red Leader"
-  ],
-  "Luke'S X-Wing Fighter": [
+  "Luke's X-Wing": [
     "Luke Skywalker",
     "Red Eleven",
     "Red Leader"
   ],
   "Main Hangar": [
-    "C-3PO",
-    "Han Solo",
-    "Leia Organa"
-  ],
-  "Main Hangar Deck": [
     "Ben'S Voice",
     "Biggs Darklighter",
     "C-3PO",
     "Chief",
+    "Han Solo",
     "Leia Organa",
     "Luke Skywalker",
     "Red Leader"
@@ -246,11 +230,11 @@
     "Rebel Officer",
     "Second Officer"
   ],
-  "Red Leader'S Cockpit": [
+  "Red Leader's Cockpit": [
     "Biggs Darklighter",
     "Red Leader"
   ],
-  "Red Ten'S Cockpit": [
+  "Red Ten's Cockpit": [
     "Luke Skywalker",
     "Red Ten"
   ],
@@ -282,7 +266,7 @@
     "Speeder Lot",
     "Trooper"
   ],
-  "Vader'S Star Destroyer": [
+  "Vader's Star Destroyer": [
     "Boba Fett",
     "Darth Vader",
     "Emperor Palpatine",
@@ -293,16 +277,16 @@
     "Second Controller",
     "Veers"
   ],
-  "Wedge'S Cockpit": [
+  "Wedge's Cockpit": [
     "Red Leader",
     "Wedge Antilles"
   ],
-  "Wedge'S Snowspeeder, Rogue Three": [
+  "Wedge's Snowspeeder, Rogue Three": [
     "Janson",
     "Luke Skywalker",
     "Wedge Antilles"
   ],
-  "Zev'S Snowspeeder, Rogue Two": [
+  "Zev's Snowspeeder, Rogue Two": [
     "Luke Skywalker",
     "Zev"
   ]

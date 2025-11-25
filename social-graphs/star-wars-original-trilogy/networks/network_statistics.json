@@ -7,9 +7,9 @@
     "average_degree": 5.25531914893617
   },
   "bipartite_network": {
-    "total_nodes": 217,
+    "total_nodes": 134,
     "character_nodes": 94,
-    "location_nodes": 123,
-    "edges": 399
+    "location_nodes": 40,
+    "edges": 211
   }
 }

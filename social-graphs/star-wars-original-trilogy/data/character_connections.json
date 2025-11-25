@@ -1,0 +1,684 @@
+{
+  "Announcer": {
+    "C-3PO": 2,
+    "Dack": 1,
+    "Han Solo": 2,
+    "Head Controller": 1,
+    "Leia Organa": 2,
+    "Luke Skywalker": 2
+  },
+  "Area": {
+    "Han Solo": 1,
+    "Luke Skywalker": 1
+  },
+  "Assistant Officer": {
+    "Deck Officer": 1,
+    "Han Solo": 1
+  },
+  "Astro-Officer": {
+    "Darth Vader": 1
+  },
+  "Bartender": {
+    "C-3PO": 1,
+    "Creature": 1,
+    "Human": 1,
+    "Luke Skywalker": 1,
+    "Obi-Wan Kenobi": 1
+  },
+  "Base Voice": {
+    "Luke Skywalker": 1
+  },
+  "Ben'S Voice": {
+    "Biggs Darklighter": 1,
+    "C-3PO": 1,
+    "Chief": 1,
+    "Creature": 1,
+    "Han Solo": 1,
+    "Leia Organa": 2,
+    "Luke Skywalker": 4,
+    "Obi-Wan Kenobi": 1,
+    "Red Leader": 1,
+    "Yoda": 2
+  },
+  "Beru Lars": {
+    "C-3PO": 2,
+    "Leia Organa": 1,
+    "Luke Skywalker": 3,
+    "Owen Lars": 3
+  },
+  "Biggs Darklighter": {
+    "Ben'S Voice": 1,
+    "C-3PO": 1,
+    "Camie": 2,
+    "Chief": 1,
+    "Day": 1,
+    "Deak": 1,
+    "Fixer": 2,
+    "Gold Leader": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 4,
+    "Red Leader": 3,
+    "Red Seven": 1,
+    "Wedge Antilles": 2
+  },
+  "Boba Fett": {
+    "C-3PO": 1,
+    "Darth Vader": 3,
+    "First Controller": 1,
+    "Han Solo": 1,
+    "Imperial Officer": 1,
+    "Lando Calrissian": 2,
+    "Leia Organa": 1,
+    "Piett": 1,
+    "Second Controller": 1
+  },
+  "C-3PO": {
+    "Announcer": 2,
+    "Bartender": 1,
+    "Ben'S Voice": 1,
+    "Beru Lars": 2,
+    "Biggs Darklighter": 1,
+    "Boba Fett": 1,
+    "Chief": 1,
+    "Creature": 1,
+    "Darth Vader": 1,
+    "Day": 1,
+    "Deck Officer": 1,
+    "Derlin": 1,
+    "First Officer": 1,
+    "First Trooper": 2,
+    "Gantry Officer": 1,
+    "Han Solo": 33,
+    "Head Controller": 1,
+    "Human": 1,
+    "Imperial Officer": 1,
+    "Intercom Voice": 1,
+    "Lando Calrissian": 7,
+    "Leia Organa": 29,
+    "Lieutenant": 1,
+    "Luke Skywalker": 19,
+    "Man'S Voice": 1,
+    "Obi-Wan Kenobi": 6,
+    "Owen Lars": 2,
+    "Red Leader": 1,
+    "Rieekan": 1,
+    "Second Threepio": 1,
+    "Senior Controller": 1,
+    "Technician": 1,
+    "Trooper": 2,
+    "Trooper Voice": 1
+  },
+  "Camie": {
+    "Biggs Darklighter": 2,
+    "Day": 1,
+    "Deak": 1,
+    "Fixer": 2,
+    "Luke Skywalker": 2
+  },
+  "Captain": {
+    "Chief Pilot": 1,
+    "Controller": 1
+  },
+  "Chief": {
+    "Ben'S Voice": 1,
+    "Biggs Darklighter": 1,
+    "C-3PO": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 1,
+    "Red Leader": 1
+  },
+  "Chief Pilot": {
+    "Captain": 1
+  },
+  "Commander": {
+    "Darth Vader": 1,
+    "Leia Organa": 1,
+    "Second Officer": 1
+  },
+  "Communications Officer": {
+    "Needa": 1,
+    "Tracking Officer": 1
+  },
+  "Controller": {
+    "Captain": 1,
+    "Rieekan": 1,
+    "Trench Officer": 1
+  },
+  "Creature": {
+    "Bartender": 1,
+    "Ben'S Voice": 1,
+    "C-3PO": 1,
+    "Human": 1,
+    "Luke Skywalker": 3,
+    "Obi-Wan Kenobi": 1,
+    "Strange Voice": 1,
+    "Yoda": 1
+  },
+  "Dack": {
+    "Announcer": 1,
+    "Luke Skywalker": 3
+  },
+  "Darth Vader": {
+    "Astro-Officer": 1,
+    "Boba Fett": 3,
+    "C-3PO": 1,
+    "Commander": 1,
+    "Death Star Intercom Voice": 1,
+    "Emperor Palpatine": 1,
+    "First Controller": 1,
+    "Grand Moff Tarkin": 6,
+    "Han Solo": 2,
+    "Imperial Officer": 3,
+    "Imperial Soldier": 1,
+    "Intercom Voice": 1,
+    "Lando Calrissian": 4,
+    "Leia Organa": 2,
+    "Luke Skywalker": 2,
+    "Motti": 1,
+    "Needa": 1,
+    "Obi-Wan Kenobi": 1,
+    "Officer": 1,
+    "Officer Cass": 1,
+    "Ozzel": 2,
+    "Piett": 7,
+    "Rebel Officer": 1,
+    "Second Controller": 1,
+    "Second Officer": 1,
+    "Tagge": 1,
+    "Trooper": 1,
+    "Veers": 1,
+    "Voice": 2,
+    "Wingman'S Voice": 1
+  },
+  "Day": {
+    "Biggs Darklighter": 1,
+    "C-3PO": 1,
+    "Camie": 1,
+    "Fixer": 1,
+    "Luke Skywalker": 2
+  },
+  "Deak": {
+    "Biggs Darklighter": 1,
+    "Camie": 1,
+    "Fixer": 1,
+    "Luke Skywalker": 1
+  },
+  "Death Star Intercom Voice": {
+    "Darth Vader": 1,
+    "Grand Moff Tarkin": 2
+  },
+  "Deck Officer": {
+    "Assistant Officer": 1,
+    "C-3PO": 1,
+    "Han Solo": 2
+  },
+  "Derlin": {
+    "C-3PO": 1,
+    "Hobbie": 1,
+    "Leia Organa": 1,
+    "Lieutenant": 1,
+    "Pilots": 1
+  },
+  "Dodonna": {
+    "Gold Leader": 1,
+    "Luke Skywalker": 1,
+    "Wedge Antilles": 1
+  },
+  "Emperor Palpatine": {
+    "Darth Vader": 1
+  },
+  "First Controller": {
+    "Boba Fett": 1,
+    "Darth Vader": 1,
+    "Piett": 1,
+    "Second Controller": 1
+  },
+  "First Officer": {
+    "C-3PO": 1,
+    "First Trooper": 1,
+    "Trooper": 1
+  },
+  "First Trooper": {
+    "C-3PO": 2,
+    "First Officer": 1,
+    "Han Solo": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 1,
+    "Officer": 1,
+    "Second Trooper": 2,
+    "Trooper": 1
+  },
+  "Fixer": {
+    "Biggs Darklighter": 2,
+    "Camie": 2,
+    "Day": 1,
+    "Deak": 1,
+    "Luke Skywalker": 2
+  },
+  "Gantry Officer": {
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Luke Skywalker": 1,
+    "Obi-Wan Kenobi": 1
+  },
+  "Gold Five": {
+    "Massassi Intercom Voice": 1
+  },
+  "Gold Leader": {
+    "Biggs Darklighter": 1,
+    "Dodonna": 1,
+    "Luke Skywalker": 1,
+    "Red Leader": 1,
+    "Wedge Antilles": 1
+  },
+  "Grand Moff Tarkin": {
+    "Darth Vader": 6,
+    "Death Star Intercom Voice": 2,
+    "Imperial Officer": 1,
+    "Intercom Voice": 1,
+    "Leia Organa": 1,
+    "Motti": 2,
+    "Officer": 1,
+    "Officer Cass": 1,
+    "Tagge": 1,
+    "Trooper": 1,
+    "Voice": 2
+  },
+  "Greedo": {
+    "Han Solo": 1
+  },
+  "Han Solo": {
+    "Announcer": 2,
+    "Area": 1,
+    "Assistant Officer": 1,
+    "Ben'S Voice": 1,
+    "Boba Fett": 1,
+    "C-3PO": 33,
+    "Darth Vader": 2,
+    "Deck Officer": 2,
+    "First Trooper": 1,
+    "Gantry Officer": 1,
+    "Greedo": 1,
+    "Head Controller": 1,
+    "Imperial Officer": 1,
+    "Intercom Voice": 2,
+    "Jabba": 1,
+    "Lando Calrissian": 7,
+    "Leia Organa": 45,
+    "Luke Skywalker": 30,
+    "Man'S Voice": 1,
+    "Obi-Wan Kenobi": 10,
+    "Officer": 1,
+    "Rieekan": 3,
+    "Second Threepio": 1,
+    "Senior Controller": 1,
+    "Technician": 1,
+    "Trooper": 2,
+    "Zev": 1
+  },
+  "Head Controller": {
+    "Announcer": 1,
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Leia Organa": 1
+  },
+  "Hobbie": {
+    "Derlin": 1,
+    "Leia Organa": 1,
+    "Pilots": 1
+  },
+  "Human": {
+    "Bartender": 1,
+    "C-3PO": 1,
+    "Creature": 1,
+    "Luke Skywalker": 1,
+    "Obi-Wan Kenobi": 1
+  },
+  "Imperial Officer": {
+    "Boba Fett": 1,
+    "C-3PO": 1,
+    "Darth Vader": 3,
+    "Grand Moff Tarkin": 1,
+    "Han Solo": 1,
+    "Lando Calrissian": 1,
+    "Leia Organa": 1,
+    "Rebel Officer": 1,
+    "Trooper": 1
+  },
+  "Imperial Soldier": {
+    "Darth Vader": 1,
+    "Lando Calrissian": 1
+  },
+  "Intercom Voice": {
+    "C-3PO": 1,
+    "Darth Vader": 1,
+    "Grand Moff Tarkin": 1,
+    "Han Solo": 2,
+    "Leia Organa": 1,
+    "Luke Skywalker": 1,
+    "Officer": 1
+  },
+  "Jabba": {
+    "Han Solo": 1
+  },
+  "Janson": {
+    "Wedge Antilles": 2
+  },
+  "Lando Calrissian": {
+    "Boba Fett": 2,
+    "C-3PO": 7,
+    "Darth Vader": 4,
+    "Han Solo": 7,
+    "Imperial Officer": 1,
+    "Imperial Soldier": 1,
+    "Leia Organa": 10,
+    "Luke Skywalker": 2,
+    "Second Threepio": 1
+  },
+  "Leia Organa": {
+    "Announcer": 2,
+    "Ben'S Voice": 2,
+    "Beru Lars": 1,
+    "Biggs Darklighter": 1,
+    "Boba Fett": 1,
+    "C-3PO": 29,
+    "Chief": 1,
+    "Commander": 1,
+    "Darth Vader": 2,
+    "Derlin": 1,
+    "First Trooper": 1,
+    "Grand Moff Tarkin": 1,
+    "Han Solo": 45,
+    "Head Controller": 1,
+    "Hobbie": 1,
+    "Imperial Officer": 1,
+    "Intercom Voice": 1,
+    "Lando Calrissian": 10,
+    "Luke Skywalker": 18,
+    "Motti": 1,
+    "Obi-Wan Kenobi": 1,
+    "Pilots": 1,
+    "Red Leader": 1,
+    "Rieekan": 4,
+    "Second Officer": 1,
+    "Senior Controller": 1,
+    "Technician": 1,
+    "Willard": 1
+  },
+  "Lieutenant": {
+    "C-3PO": 1,
+    "Derlin": 1
+  },
+  "Luke Skywalker": {
+    "Announcer": 2,
+    "Area": 1,
+    "Bartender": 1,
+    "Base Voice": 1,
+    "Ben'S Voice": 4,
+    "Beru Lars": 3,
+    "Biggs Darklighter": 4,
+    "C-3PO": 19,
+    "Camie": 2,
+    "Chief": 1,
+    "Creature": 3,
+    "Dack": 3,
+    "Darth Vader": 2,
+    "Day": 2,
+    "Deak": 1,
+    "Dodonna": 1,
+    "First Trooper": 1,
+    "Fixer": 2,
+    "Gantry Officer": 1,
+    "Gold Leader": 1,
+    "Han Solo": 30,
+    "Human": 1,
+    "Intercom Voice": 1,
+    "Lando Calrissian": 2,
+    "Leia Organa": 18,
+    "Man'S Voice": 1,
+    "Medical Droid": 1,
+    "Obi-Wan Kenobi": 21,
+    "Officer": 1,
+    "Owen Lars": 3,
+    "Red Eleven": 1,
+    "Red Leader": 3,
+    "Red Ten": 1,
+    "Speeder Lot": 1,
+    "Strange Voice": 1,
+    "Technician": 1,
+    "Trooper": 2,
+    "Wedge Antilles": 4,
+    "Yoda": 5,
+    "Zev": 1
+  },
+  "Man'S Voice": {
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Luke Skywalker": 1
+  },
+  "Massassi Intercom Voice": {
+    "Gold Five": 1
+  },
+  "Medical Droid": {
+    "Luke Skywalker": 1
+  },
+  "Motti": {
+    "Darth Vader": 1,
+    "Grand Moff Tarkin": 2,
+    "Leia Organa": 1,
+    "Tagge": 1
+  },
+  "Needa": {
+    "Communications Officer": 1,
+    "Darth Vader": 1,
+    "Piett": 1,
+    "Tracking Officer": 1
+  },
+  "Obi-Wan Kenobi": {
+    "Bartender": 1,
+    "Ben'S Voice": 1,
+    "C-3PO": 6,
+    "Creature": 1,
+    "Darth Vader": 1,
+    "Gantry Officer": 1,
+    "Han Solo": 10,
+    "Human": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 21,
+    "Speeder Lot": 1,
+    "Trooper": 2,
+    "Yoda": 1
+  },
+  "Officer": {
+    "Darth Vader": 1,
+    "First Trooper": 1,
+    "Grand Moff Tarkin": 1,
+    "Han Solo": 1,
+    "Intercom Voice": 1,
+    "Luke Skywalker": 1,
+    "Second Officer": 1,
+    "Second Trooper": 1,
+    "Voice": 2
+  },
+  "Officer Cass": {
+    "Darth Vader": 1,
+    "Grand Moff Tarkin": 1
+  },
+  "Owen Lars": {
+    "Beru Lars": 3,
+    "C-3PO": 2,
+    "Luke Skywalker": 3
+  },
+  "Ozzel": {
+    "Darth Vader": 2,
+    "Piett": 2,
+    "Veers": 1
+  },
+  "Piett": {
+    "Boba Fett": 1,
+    "Darth Vader": 7,
+    "First Controller": 1,
+    "Needa": 1,
+    "Ozzel": 2,
+    "Second Controller": 1,
+    "Veers": 1
+  },
+  "Pilot": {
+    "Veers": 1
+  },
+  "Pilots": {
+    "Derlin": 1,
+    "Hobbie": 1,
+    "Leia Organa": 1
+  },
+  "Porkins": {
+    "Red Nine": 1
+  },
+  "Rebel Captain": {
+    "Rebel Fighter": 1
+  },
+  "Rebel Fighter": {
+    "Rebel Captain": 1
+  },
+  "Rebel Officer": {
+    "Darth Vader": 1,
+    "Imperial Officer": 1
+  },
+  "Red Eleven": {
+    "Luke Skywalker": 1
+  },
+  "Red Leader": {
+    "Ben'S Voice": 1,
+    "Biggs Darklighter": 3,
+    "C-3PO": 1,
+    "Chief": 1,
+    "Gold Leader": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 3,
+    "Red Nine'S Voice": 1,
+    "Red Ten": 1,
+    "Wedge Antilles": 3
+  },
+  "Red Nine": {
+    "Porkins": 1
+  },
+  "Red Nine'S Voice": {
+    "Red Leader": 1
+  },
+  "Red Seven": {
+    "Biggs Darklighter": 1
+  },
+  "Red Ten": {
+    "Luke Skywalker": 1,
+    "Red Leader": 1
+  },
+  "Rieekan": {
+    "C-3PO": 1,
+    "Controller": 1,
+    "Han Solo": 3,
+    "Leia Organa": 4,
+    "Senior Controller": 1
+  },
+  "Second Controller": {
+    "Boba Fett": 1,
+    "Darth Vader": 1,
+    "First Controller": 1,
+    "Piett": 1
+  },
+  "Second Officer": {
+    "Commander": 1,
+    "Darth Vader": 1,
+    "Leia Organa": 1,
+    "Officer": 1
+  },
+  "Second Threepio": {
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Lando Calrissian": 1
+  },
+  "Second Trooper": {
+    "First Trooper": 2,
+    "Officer": 1
+  },
+  "Senior Controller": {
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Leia Organa": 1,
+    "Rieekan": 1
+  },
+  "Speeder Lot": {
+    "Luke Skywalker": 1,
+    "Obi-Wan Kenobi": 1
+  },
+  "Strange Voice": {
+    "Creature": 1,
+    "Luke Skywalker": 1
+  },
+  "Tagge": {
+    "Darth Vader": 1,
+    "Grand Moff Tarkin": 1,
+    "Motti": 1
+  },
+  "Technician": {
+    "C-3PO": 1,
+    "Han Solo": 1,
+    "Leia Organa": 1,
+    "Luke Skywalker": 1
+  },
+  "Tracking Officer": {
+    "Communications Officer": 1,
+    "Needa": 1
+  },
+  "Trench Officer": {
+    "Controller": 1
+  },
+  "Trooper": {
+    "C-3PO": 2,
+    "Darth Vader": 1,
+    "First Officer": 1,
+    "First Trooper": 1,
+    "Grand Moff Tarkin": 1,
+    "Han Solo": 2,
+    "Imperial Officer": 1,
+    "Luke Skywalker": 2,
+    "Obi-Wan Kenobi": 2
+  },
+  "Trooper Voice": {
+    "C-3PO": 1
+  },
+  "Veers": {
+    "Darth Vader": 1,
+    "Ozzel": 1,
+    "Piett": 1,
+    "Pilot": 1
+  },
+  "Voice": {
+    "Darth Vader": 2,
+    "Grand Moff Tarkin": 2,
+    "Officer": 2
+  },
+  "Wedge Antilles": {
+    "Biggs Darklighter": 2,
+    "Dodonna": 1,
+    "Gold Leader": 1,
+    "Janson": 2,
+    "Luke Skywalker": 4,
+    "Red Leader": 3
+  },
+  "Willard": {
+    "Leia Organa": 1
+  },
+  "Wingman'S Voice": {
+    "Darth Vader": 1
+  },
+  "Yoda": {
+    "Ben'S Voice": 2,
+    "Creature": 1,
+    "Luke Skywalker": 5,
+    "Obi-Wan Kenobi": 1
+  },
+  "Zev": {
+    "Han Solo": 1,
+    "Luke Skywalker": 1
+  }
+}

@@ -1,0 +1,1261 @@
+{
+  "Ackbar": {
+    "connections": {
+      "C-3PO": 1,
+      "Controller": 1,
+      "General Madine": 1,
+      "Han Solo": 1,
+      "Lando Calrissian": 5,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1,
+      "Mon Mothma": 1,
+      "Rebel Pilot": 2,
+      "Wedge Antilles": 1,
+      "Y-Wing Pilot": 1
+    },
+    "sentiment": 5.243314543404717
+  },
+  "Anakin": {
+    "connections": {
+      "Darth Vader": 1,
+      "Luke Skywalker": 1,
+      "Lure": 1
+    },
+    "sentiment": 5.232463768115944
+  },
+  "Announcer": {
+    "connections": {
+      "C-3PO": 2,
+      "Dack": 1,
+      "Han Solo": 2,
+      "Head Controller": 1,
+      "Leia Organa": 2,
+      "Luke Skywalker": 2
+    },
+    "sentiment": 5.393904958677685
+  },
+  "Area": {
+    "connections": {
+      "Han Solo": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.124347826086957
+  },
+  "Assistant Officer": {
+    "connections": {
+      "Deck Officer": 1,
+      "Han Solo": 1
+    },
+    "sentiment": 5.226111111111114
+  },
+  "Astro-Officer": {
+    "connections": {
+      "Darth Vader": 1
+    },
+    "sentiment": 5.286415094339624
+  },
+  "Bartender": {
+    "connections": {
+      "C-3PO": 1,
+      "Creature": 1,
+      "Human": 1,
+      "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1
+    },
+    "sentiment": 5.249373695198326
+  },
+  "Base Voice": {
+    "connections": {
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.385714285714286
+  },
+  "Ben'S Voice": {
+    "connections": {
+      "Biggs Darklighter": 1,
+      "C-3PO": 1,
+      "Chief": 1,
+      "Creature": 1,
+      "Han Solo": 1,
+      "Leia Organa": 2,
+      "Luke Skywalker": 4,
+      "Obi-Wan Kenobi": 1,
+      "Red Leader": 1,
+      "Yoda": 2
+    },
+    "sentiment": 5.339558404558387
+  },
+  "Beru Lars": {
+    "connections": {
+      "C-3PO": 2,
+      "Leia Organa": 1,
+      "Luke Skywalker": 3,
+      "Owen Lars": 3
+    },
+    "sentiment": 5.375900430239683
+  },
+  "Bib": {
+    "connections": {
+      "C-3PO": 2,
+      "Jabba": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.271011560693644
+  },
+  "Biggs Darklighter": {
+    "connections": {
+      "Ben'S Voice": 1,
+      "C-3PO": 1,
+      "Camie": 2,
+      "Chief": 1,
+      "Day": 1,
+      "Deak": 1,
+      "Fixer": 2,
+      "Gold Leader": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 4,
+      "Red Leader": 3,
+      "Red Seven": 1,
+      "Wedge Antilles": 2
+    },
+    "sentiment": 5.382299999999995
+  },
+  "Boba Fett": {
+    "connections": {
+      "C-3PO": 1,
+      "Darth Vader": 3,
+      "First Controller": 1,
+      "Han Solo": 1,
+      "Imperial Officer": 1,
+      "Lando Calrissian": 2,
+      "Leia Organa": 1,
+      "Piett": 1,
+      "Second Controller": 1
+    },
+    "sentiment": 5.296299435028239
+  },
+  "Boushh": {
+    "connections": {
+      "C-3PO": 2,
+      "Han Solo": 1,
+      "Jabba": 1,
+      "Leia Organa": 1,
+      "Oola": 1
+    },
+    "sentiment": 5.296455847255357
+  },
+  "Bunker Commander": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Leia Organa": 1,
+      "Stormtrooper": 1
+    },
+    "sentiment": 5.17912280701755
+  },
+  "C-3PO": {
+    "connections": {
+      "Ackbar": 1,
+      "Announcer": 2,
+      "Bartender": 1,
+      "Ben'S Voice": 1,
+      "Beru Lars": 2,
+      "Bib": 2,
+      "Biggs Darklighter": 1,
+      "Boba Fett": 1,
+      "Boushh": 2,
+      "Bunker Commander": 1,
+      "Chief": 1,
+      "Commander": 1,
+      "Creature": 1,
+      "Darth Vader": 1,
+      "Day": 1,
+      "Deck Officer": 1,
+      "Derlin": 1,
+      "First Officer": 1,
+      "First Trooper": 2,
+      "Gantry Officer": 1,
+      "General Madine": 1,
+      "Han Solo": 51,
+      "Head Controller": 1,
+      "Human": 1,
+      "Imperial Officer": 1,
+      "Intercom Voice": 1,
+      "Jabba": 3,
+      "Lando Calrissian": 8,
+      "Leia Organa": 44,
+      "Lieutenant": 1,
+      "Luke Skywalker": 29,
+      "Man'S Voice": 1,
+      "Mon Mothma": 1,
+      "Ninedenine": 1,
+      "Obi-Wan Kenobi": 6,
+      "Oola": 1,
+      "Owen Lars": 2,
+      "Red Leader": 1,
+      "Rieekan": 1,
+      "Second Threepio": 1,
+      "Senior Controller": 1,
+      "Stormtrooper": 2,
+      "Strange Voice": 1,
+      "Technician": 1,
+      "Trooper": 2,
+      "Trooper Voice": 1
+    },
+    "sentiment": 5.298605430387078
+  },
+  "Camie": {
+    "connections": {
+      "Biggs Darklighter": 2,
+      "Day": 1,
+      "Deak": 1,
+      "Fixer": 2,
+      "Luke Skywalker": 2
+    },
+    "sentiment": 5.337239263803685
+  },
+  "Captain": {
+    "connections": {
+      "Chief Pilot": 1,
+      "Controller": 1
+    },
+    "sentiment": 5.296923076923077
+  },
+  "Chief": {
+    "connections": {
+      "Ben'S Voice": 1,
+      "Biggs Darklighter": 1,
+      "C-3PO": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1,
+      "Red Leader": 1
+    },
+    "sentiment": 5.43992327365729
+  },
+  "Chief Pilot": {
+    "connections": {
+      "Captain": 1
+    },
+    "sentiment": 5.1641666666666675
+  },
+  "Commander": {
+    "connections": {
+      "C-3PO": 1,
+      "Controller": 1,
+      "Darth Vader": 2,
+      "Han Solo": 1,
+      "Leia Organa": 2,
+      "Luke Skywalker": 1,
+      "Lure": 1,
+      "Piett": 2,
+      "Second Officer": 1
+    },
+    "sentiment": 5.249226932668314
+  },
+  "Communications Officer": {
+    "connections": {
+      "Needa": 1,
+      "Tracking Officer": 1
+    },
+    "sentiment": 5.211192660550462
+  },
+  "Control Room Commander": {
+    "connections": {
+      "Second Commander": 1
+    },
+    "sentiment": 5.346190476190474
+  },
+  "Controller": {
+    "connections": {
+      "Ackbar": 1,
+      "Captain": 1,
+      "Commander": 1,
+      "Lando Calrissian": 1,
+      "Piett": 1,
+      "Rebel Pilot": 1,
+      "Rieekan": 1,
+      "Trench Officer": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.234487632508837
+  },
+  "Creature": {
+    "connections": {
+      "Bartender": 1,
+      "Ben'S Voice": 1,
+      "C-3PO": 1,
+      "Human": 1,
+      "Luke Skywalker": 3,
+      "Obi-Wan Kenobi": 1,
+      "Strange Voice": 1,
+      "Yoda": 1
+    },
+    "sentiment": 5.333223495701989
+  },
+  "Dack": {
+    "connections": {
+      "Announcer": 1,
+      "Luke Skywalker": 3
+    },
+    "sentiment": 5.396890243902444
+  },
+  "Darth Vader": {
+    "connections": {
+      "Anakin": 1,
+      "Astro-Officer": 1,
+      "Boba Fett": 3,
+      "C-3PO": 1,
+      "Commander": 2,
+      "Death Star Intercom Voice": 1,
+      "Emperor Palpatine": 6,
+      "First Controller": 1,
+      "Grand Moff Tarkin": 6,
+      "Guard": 1,
+      "Han Solo": 2,
+      "Imperial Officer": 3,
+      "Imperial Soldier": 1,
+      "Intercom Voice": 1,
+      "Jerjerrod": 1,
+      "Lando Calrissian": 4,
+      "Leia Organa": 2,
+      "Luke Skywalker": 7,
+      "Lure": 2,
+      "Motti": 1,
+      "Needa": 1,
+      "Obi-Wan Kenobi": 1,
+      "Officer": 1,
+      "Officer Cass": 1,
+      "Ozzel": 2,
+      "Piett": 8,
+      "Rebel Officer": 1,
+      "Second Controller": 1,
+      "Second Officer": 1,
+      "Tagge": 1,
+      "Trooper": 1,
+      "Veers": 1,
+      "Voice": 2,
+      "Wingman'S Voice": 1
+    },
+    "sentiment": 5.288846091337557
+  },
+  "Day": {
+    "connections": {
+      "Biggs Darklighter": 1,
+      "C-3PO": 1,
+      "Camie": 1,
+      "Fixer": 1,
+      "Luke Skywalker": 2
+    },
+    "sentiment": 5.214871794871796
+  },
+  "Deak": {
+    "connections": {
+      "Biggs Darklighter": 1,
+      "Camie": 1,
+      "Fixer": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.431625615763547
+  },
+  "Death Star Intercom Voice": {
+    "connections": {
+      "Darth Vader": 1,
+      "Grand Moff Tarkin": 2
+    },
+    "sentiment": 5.4451388888888905
+  },
+  "Deck Officer": {
+    "connections": {
+      "Assistant Officer": 1,
+      "C-3PO": 1,
+      "Han Solo": 2
+    },
+    "sentiment": 5.2786379928315394
+  },
+  "Derlin": {
+    "connections": {
+      "C-3PO": 1,
+      "Hobbie": 1,
+      "Leia Organa": 1,
+      "Lieutenant": 1,
+      "Pilots": 1
+    },
+    "sentiment": 5.291575091575096
+  },
+  "Dodonna": {
+    "connections": {
+      "Gold Leader": 1,
+      "Luke Skywalker": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.272343750000003
+  },
+  "Emperor Palpatine": {
+    "connections": {
+      "Darth Vader": 6,
+      "Luke Skywalker": 3
+    },
+    "sentiment": 5.32148361127081
+  },
+  "End Credits Over Star Field": {
+    "connections": {
+      "Fade Out": 1
+    },
+    "sentiment": 5.516666666666671
+  },
+  "Fade Out": {
+    "connections": {
+      "End Credits Over Star Field": 1
+    },
+    "sentiment": 5.516666666666671
+  },
+  "First Controller": {
+    "connections": {
+      "Boba Fett": 1,
+      "Darth Vader": 1,
+      "Piett": 1,
+      "Second Controller": 1
+    },
+    "sentiment": 5.400593220338987
+  },
+  "First Officer": {
+    "connections": {
+      "C-3PO": 1,
+      "First Trooper": 1,
+      "Trooper": 1
+    },
+    "sentiment": 5.212403100775197
+  },
+  "First Trooper": {
+    "connections": {
+      "C-3PO": 2,
+      "First Officer": 1,
+      "Han Solo": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1,
+      "Officer": 1,
+      "Second Trooper": 2,
+      "Trooper": 1
+    },
+    "sentiment": 5.226941431670281
+  },
+  "Fixer": {
+    "connections": {
+      "Biggs Darklighter": 2,
+      "Camie": 2,
+      "Day": 1,
+      "Deak": 1,
+      "Luke Skywalker": 2
+    },
+    "sentiment": 5.337239263803685
+  },
+  "Gantry Officer": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1
+    },
+    "sentiment": 5.371909774436079
+  },
+  "General Madine": {
+    "connections": {
+      "Ackbar": 1,
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Lando Calrissian": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1,
+      "Mon Mothma": 1
+    },
+    "sentiment": 5.253504761904752
+  },
+  "Gold Five": {
+    "connections": {
+      "Massassi Intercom Voice": 1
+    },
+    "sentiment": 5.387674418604654
+  },
+  "Gold Leader": {
+    "connections": {
+      "Biggs Darklighter": 1,
+      "Dodonna": 1,
+      "Luke Skywalker": 1,
+      "Red Leader": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.321152815013409
+  },
+  "Grand Moff Tarkin": {
+    "connections": {
+      "Darth Vader": 6,
+      "Death Star Intercom Voice": 2,
+      "Imperial Officer": 1,
+      "Intercom Voice": 1,
+      "Leia Organa": 1,
+      "Motti": 2,
+      "Officer": 1,
+      "Officer Cass": 1,
+      "Tagge": 1,
+      "Trooper": 1,
+      "Voice": 2
+    },
+    "sentiment": 5.294145342886372
+  },
+  "Gray Leader": {
+    "connections": {
+      "Green Leader": 1,
+      "Lando Calrissian": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.452380952380952
+  },
+  "Greedo": {
+    "connections": {
+      "Han Solo": 1
+    },
+    "sentiment": 5.244000000000004
+  },
+  "Green Leader": {
+    "connections": {
+      "Gray Leader": 1,
+      "Lando Calrissian": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.452380952380952
+  },
+  "Guard": {
+    "connections": {
+      "Darth Vader": 1
+    },
+    "sentiment": 5.184761904761904
+  },
+  "Han Solo": {
+    "connections": {
+      "Ackbar": 1,
+      "Announcer": 2,
+      "Area": 1,
+      "Assistant Officer": 1,
+      "Ben'S Voice": 1,
+      "Boba Fett": 1,
+      "Boushh": 1,
+      "Bunker Commander": 1,
+      "C-3PO": 51,
+      "Commander": 1,
+      "Darth Vader": 2,
+      "Deck Officer": 2,
+      "First Trooper": 1,
+      "Gantry Officer": 1,
+      "General Madine": 1,
+      "Greedo": 1,
+      "Head Controller": 1,
+      "Imperial Officer": 1,
+      "Intercom Voice": 2,
+      "Jabba": 1,
+      "Lando Calrissian": 12,
+      "Leia Organa": 63,
+      "Luke Skywalker": 43,
+      "Man'S Voice": 1,
+      "Mon Mothma": 1,
+      "Obi-Wan Kenobi": 10,
+      "Officer": 1,
+      "Rieekan": 3,
+      "Second Threepio": 1,
+      "Senior Controller": 1,
+      "Stormtrooper": 2,
+      "Technician": 1,
+      "Trooper": 2,
+      "Zev": 1
+    },
+    "sentiment": 5.293807213036202
+  },
+  "Head Controller": {
+    "connections": {
+      "Announcer": 1,
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Leia Organa": 1
+    },
+    "sentiment": 5.272215568862281
+  },
+  "Hobbie": {
+    "connections": {
+      "Derlin": 1,
+      "Leia Organa": 1,
+      "Pilots": 1
+    },
+    "sentiment": 5.367684210526318
+  },
+  "Human": {
+    "connections": {
+      "Bartender": 1,
+      "C-3PO": 1,
+      "Creature": 1,
+      "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1
+    },
+    "sentiment": 5.249373695198326
+  },
+  "Imperial Officer": {
+    "connections": {
+      "Boba Fett": 1,
+      "C-3PO": 1,
+      "Darth Vader": 3,
+      "Grand Moff Tarkin": 1,
+      "Han Solo": 1,
+      "Lando Calrissian": 1,
+      "Leia Organa": 1,
+      "Rebel Officer": 1,
+      "Trooper": 1
+    },
+    "sentiment": 5.271483050847447
+  },
+  "Imperial Soldier": {
+    "connections": {
+      "Darth Vader": 1,
+      "Lando Calrissian": 1
+    },
+    "sentiment": 5.324090909090912
+  },
+  "Intercom Voice": {
+    "connections": {
+      "C-3PO": 1,
+      "Darth Vader": 1,
+      "Grand Moff Tarkin": 1,
+      "Han Solo": 2,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1,
+      "Officer": 1
+    },
+    "sentiment": 5.197829787234039
+  },
+  "Jabba": {
+    "connections": {
+      "Bib": 1,
+      "Boushh": 1,
+      "C-3PO": 3,
+      "Han Solo": 1,
+      "Luke Skywalker": 2,
+      "Oola": 1
+    },
+    "sentiment": 5.3373469387754895
+  },
+  "Janson": {
+    "connections": {
+      "Wedge Antilles": 2
+    },
+    "sentiment": 5.380769230769231
+  },
+  "Jerjerrod": {
+    "connections": {
+      "Darth Vader": 1
+    },
+    "sentiment": 5.3602395209580855
+  },
+  "Lando Calrissian": {
+    "connections": {
+      "Ackbar": 5,
+      "Boba Fett": 2,
+      "C-3PO": 8,
+      "Controller": 1,
+      "Darth Vader": 4,
+      "General Madine": 1,
+      "Gray Leader": 1,
+      "Green Leader": 1,
+      "Han Solo": 12,
+      "Imperial Officer": 1,
+      "Imperial Soldier": 1,
+      "Leia Organa": 12,
+      "Luke Skywalker": 6,
+      "Mon Mothma": 1,
+      "Navigator": 1,
+      "Pilot": 1,
+      "Rebel Pilot": 3,
+      "Red Three": 1,
+      "Red Two": 1,
+      "Second Threepio": 1,
+      "Wedge Antilles": 6,
+      "Y-Wing Pilot": 1
+    },
+    "sentiment": 5.275918150975376
+  },
+  "Leia Organa": {
+    "connections": {
+      "Ackbar": 1,
+      "Announcer": 2,
+      "Ben'S Voice": 2,
+      "Beru Lars": 1,
+      "Biggs Darklighter": 1,
+      "Boba Fett": 1,
+      "Boushh": 1,
+      "Bunker Commander": 1,
+      "C-3PO": 44,
+      "Chief": 1,
+      "Commander": 2,
+      "Darth Vader": 2,
+      "Derlin": 1,
+      "First Trooper": 1,
+      "General Madine": 1,
+      "Grand Moff Tarkin": 1,
+      "Han Solo": 63,
+      "Head Controller": 1,
+      "Hobbie": 1,
+      "Imperial Officer": 1,
+      "Intercom Voice": 1,
+      "Lando Calrissian": 12,
+      "Luke Skywalker": 26,
+      "Mon Mothma": 1,
+      "Motti": 1,
+      "Obi-Wan Kenobi": 1,
+      "Pilots": 1,
+      "Red Leader": 1,
+      "Rieekan": 4,
+      "Second Officer": 1,
+      "Senior Controller": 1,
+      "Stormtrooper": 2,
+      "Technician": 1,
+      "Willard": 1
+    },
+    "sentiment": 5.301676037292838
+  },
+  "Lieutenant": {
+    "connections": {
+      "C-3PO": 1,
+      "Derlin": 1
+    },
+    "sentiment": 5.250955056179782
+  },
+  "Luke Skywalker": {
+    "connections": {
+      "Ackbar": 1,
+      "Anakin": 1,
+      "Announcer": 2,
+      "Area": 1,
+      "Bartender": 1,
+      "Base Voice": 1,
+      "Ben'S Voice": 4,
+      "Beru Lars": 3,
+      "Bib": 1,
+      "Biggs Darklighter": 4,
+      "C-3PO": 29,
+      "Camie": 2,
+      "Chief": 1,
+      "Commander": 1,
+      "Creature": 3,
+      "Dack": 3,
+      "Darth Vader": 7,
+      "Day": 2,
+      "Deak": 1,
+      "Dodonna": 1,
+      "Emperor Palpatine": 3,
+      "First Trooper": 1,
+      "Fixer": 2,
+      "Gantry Officer": 1,
+      "General Madine": 1,
+      "Gold Leader": 1,
+      "Han Solo": 43,
+      "Human": 1,
+      "Intercom Voice": 1,
+      "Jabba": 2,
+      "Lando Calrissian": 6,
+      "Leia Organa": 26,
+      "Lure": 2,
+      "Man'S Voice": 1,
+      "Medical Droid": 1,
+      "Mon Mothma": 1,
+      "Obi-Wan Kenobi": 22,
+      "Officer": 1,
+      "Owen Lars": 3,
+      "Red Eleven": 1,
+      "Red Leader": 3,
+      "Red Ten": 1,
+      "Speeder Lot": 1,
+      "Strange Voice": 1,
+      "Technician": 1,
+      "Trooper": 2,
+      "Wedge Antilles": 4,
+      "Yoda": 6,
+      "Zev": 1
+    },
+    "sentiment": 5.312484200291621
+  },
+  "Lure": {
+    "connections": {
+      "Anakin": 1,
+      "Commander": 1,
+      "Darth Vader": 2,
+      "Luke Skywalker": 2
+    },
+    "sentiment": 5.301091314031182
+  },
+  "Man'S Voice": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.382289156626512
+  },
+  "Massassi Intercom Voice": {
+    "connections": {
+      "Gold Five": 1
+    },
+    "sentiment": 5.216896551724141
+  },
+  "Medical Droid": {
+    "connections": {
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.241935483870967
+  },
+  "Mon Mothma": {
+    "connections": {
+      "Ackbar": 1,
+      "C-3PO": 1,
+      "General Madine": 1,
+      "Han Solo": 1,
+      "Lando Calrissian": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.253504761904752
+  },
+  "Motti": {
+    "connections": {
+      "Darth Vader": 1,
+      "Grand Moff Tarkin": 2,
+      "Leia Organa": 1,
+      "Tagge": 1
+    },
+    "sentiment": 5.2957193605683806
+  },
+  "Navigator": {
+    "connections": {
+      "Lando Calrissian": 1,
+      "Red Three": 1,
+      "Red Two": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.2793333333333345
+  },
+  "Needa": {
+    "connections": {
+      "Communications Officer": 1,
+      "Darth Vader": 1,
+      "Piett": 1,
+      "Tracking Officer": 1
+    },
+    "sentiment": 5.283358208955226
+  },
+  "Ninedenine": {
+    "connections": {
+      "C-3PO": 1
+    },
+    "sentiment": 5.2659036144578355
+  },
+  "Obi-Wan Kenobi": {
+    "connections": {
+      "Bartender": 1,
+      "Ben'S Voice": 1,
+      "C-3PO": 6,
+      "Creature": 1,
+      "Darth Vader": 1,
+      "Gantry Officer": 1,
+      "Han Solo": 10,
+      "Human": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 22,
+      "Speeder Lot": 1,
+      "Trooper": 2,
+      "Yoda": 1
+    },
+    "sentiment": 5.305866525048681
+  },
+  "Officer": {
+    "connections": {
+      "Darth Vader": 1,
+      "First Trooper": 1,
+      "Grand Moff Tarkin": 1,
+      "Han Solo": 1,
+      "Intercom Voice": 1,
+      "Luke Skywalker": 1,
+      "Operator": 1,
+      "Second Officer": 1,
+      "Second Trooper": 1,
+      "Voice": 2
+    },
+    "sentiment": 5.268196721311469
+  },
+  "Officer Cass": {
+    "connections": {
+      "Darth Vader": 1,
+      "Grand Moff Tarkin": 1
+    },
+    "sentiment": 5.155471698113208
+  },
+  "Oola": {
+    "connections": {
+      "Boushh": 1,
+      "C-3PO": 1,
+      "Jabba": 1
+    },
+    "sentiment": 5.29741150442478
+  },
+  "Operator": {
+    "connections": {
+      "Officer": 1
+    },
+    "sentiment": 5.306764705882354
+  },
+  "Owen Lars": {
+    "connections": {
+      "Beru Lars": 3,
+      "C-3PO": 2,
+      "Luke Skywalker": 3
+    },
+    "sentiment": 5.35607003891049
+  },
+  "Ozzel": {
+    "connections": {
+      "Darth Vader": 2,
+      "Piett": 2,
+      "Veers": 1
+    },
+    "sentiment": 5.378181818181823
+  },
+  "Piett": {
+    "connections": {
+      "Boba Fett": 1,
+      "Commander": 2,
+      "Controller": 1,
+      "Darth Vader": 8,
+      "First Controller": 1,
+      "Needa": 1,
+      "Ozzel": 2,
+      "Second Controller": 1,
+      "Veers": 1
+    },
+    "sentiment": 5.32959183673467
+  },
+  "Pilot": {
+    "connections": {
+      "Lando Calrissian": 1,
+      "Veers": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.23149732620321
+  },
+  "Pilots": {
+    "connections": {
+      "Derlin": 1,
+      "Hobbie": 1,
+      "Leia Organa": 1
+    },
+    "sentiment": 5.367684210526318
+  },
+  "Porkins": {
+    "connections": {
+      "Red Nine": 1
+    },
+    "sentiment": 5.433333333333333
+  },
+  "Rebel Captain": {
+    "connections": {
+      "Rebel Fighter": 1
+    },
+    "sentiment": 5.318703703703704
+  },
+  "Rebel Fighter": {
+    "connections": {
+      "Rebel Captain": 1
+    },
+    "sentiment": 5.318703703703704
+  },
+  "Rebel Officer": {
+    "connections": {
+      "Darth Vader": 1,
+      "Imperial Officer": 1
+    },
+    "sentiment": 5.022500000000004
+  },
+  "Rebel Pilot": {
+    "connections": {
+      "Ackbar": 2,
+      "Controller": 1,
+      "Lando Calrissian": 3,
+      "Wedge Antilles": 2,
+      "Y-Wing Pilot": 1
+    },
+    "sentiment": 5.215765124555172
+  },
+  "Red Eleven": {
+    "connections": {
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.446666666666666
+  },
+  "Red Leader": {
+    "connections": {
+      "Ben'S Voice": 1,
+      "Biggs Darklighter": 3,
+      "C-3PO": 1,
+      "Chief": 1,
+      "Gold Leader": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 3,
+      "Red Nine'S Voice": 1,
+      "Red Ten": 1,
+      "Wedge Antilles": 3
+    },
+    "sentiment": 5.378874999999985
+  },
+  "Red Nine": {
+    "connections": {
+      "Porkins": 1
+    },
+    "sentiment": 5.433333333333333
+  },
+  "Red Nine'S Voice": {
+    "connections": {
+      "Red Leader": 1
+    },
+    "sentiment": 5.300000000000001
+  },
+  "Red Seven": {
+    "connections": {
+      "Biggs Darklighter": 1
+    },
+    "sentiment": 5.576666666666667
+  },
+  "Red Ten": {
+    "connections": {
+      "Luke Skywalker": 1,
+      "Red Leader": 1
+    },
+    "sentiment": 5.309444444444447
+  },
+  "Red Three": {
+    "connections": {
+      "Lando Calrissian": 1,
+      "Navigator": 1,
+      "Red Two": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.2793333333333345
+  },
+  "Red Two": {
+    "connections": {
+      "Lando Calrissian": 1,
+      "Navigator": 1,
+      "Red Three": 1,
+      "Wedge Antilles": 1
+    },
+    "sentiment": 5.2793333333333345
+  },
+  "Rieekan": {
+    "connections": {
+      "C-3PO": 1,
+      "Controller": 1,
+      "Han Solo": 3,
+      "Leia Organa": 4,
+      "Senior Controller": 1
+    },
+    "sentiment": 5.267056074766357
+  },
+  "Second Commander": {
+    "connections": {
+      "Control Room Commander": 1
+    },
+    "sentiment": 5.346190476190474
+  },
+  "Second Controller": {
+    "connections": {
+      "Boba Fett": 1,
+      "Darth Vader": 1,
+      "First Controller": 1,
+      "Piett": 1
+    },
+    "sentiment": 5.400593220338987
+  },
+  "Second Officer": {
+    "connections": {
+      "Commander": 1,
+      "Darth Vader": 1,
+      "Leia Organa": 1,
+      "Officer": 1
+    },
+    "sentiment": 5.195615942028991
+  },
+  "Second Threepio": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Lando Calrissian": 1
+    },
+    "sentiment": 5.364820143884896
+  },
+  "Second Trooper": {
+    "connections": {
+      "First Trooper": 2,
+      "Officer": 1
+    },
+    "sentiment": 5.209655172413797
+  },
+  "Senior Controller": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Leia Organa": 1,
+      "Rieekan": 1
+    },
+    "sentiment": 5.201875000000002
+  },
+  "Speeder Lot": {
+    "connections": {
+      "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1
+    },
+    "sentiment": 5.2585714285714324
+  },
+  "Stormtrooper": {
+    "connections": {
+      "Bunker Commander": 1,
+      "C-3PO": 2,
+      "Han Solo": 2,
+      "Leia Organa": 2
+    },
+    "sentiment": 5.2087747035573155
+  },
+  "Strange Voice": {
+    "connections": {
+      "C-3PO": 1,
+      "Creature": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.384408099688459
+  },
+  "Tagge": {
+    "connections": {
+      "Darth Vader": 1,
+      "Grand Moff Tarkin": 1,
+      "Motti": 1
+    },
+    "sentiment": 5.197198795180732
+  },
+  "Technician": {
+    "connections": {
+      "C-3PO": 1,
+      "Han Solo": 1,
+      "Leia Organa": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.44671328671329
+  },
+  "Tracking Officer": {
+    "connections": {
+      "Communications Officer": 1,
+      "Needa": 1
+    },
+    "sentiment": 5.211192660550462
+  },
+  "Trench Officer": {
+    "connections": {
+      "Controller": 1
+    },
+    "sentiment": 5.218113207547174
+  },
+  "Trooper": {
+    "connections": {
+      "C-3PO": 2,
+      "Darth Vader": 1,
+      "First Officer": 1,
+      "First Trooper": 1,
+      "Grand Moff Tarkin": 1,
+      "Han Solo": 2,
+      "Imperial Officer": 1,
+      "Luke Skywalker": 2,
+      "Obi-Wan Kenobi": 2
+    },
+    "sentiment": 5.297173913043455
+  },
+  "Trooper Voice": {
+    "connections": {
+      "C-3PO": 1
+    },
+    "sentiment": 5.377727272727271
+  },
+  "Veers": {
+    "connections": {
+      "Darth Vader": 1,
+      "Ozzel": 1,
+      "Piett": 1,
+      "Pilot": 1
+    },
+    "sentiment": 5.361808510638303
+  },
+  "Voice": {
+    "connections": {
+      "Darth Vader": 2,
+      "Grand Moff Tarkin": 2,
+      "Officer": 2
+    },
+    "sentiment": 5.287486631016046
+  },
+  "Wedge Antilles": {
+    "connections": {
+      "Ackbar": 1,
+      "Biggs Darklighter": 2,
+      "Controller": 1,
+      "Dodonna": 1,
+      "Gold Leader": 1,
+      "Gray Leader": 1,
+      "Green Leader": 1,
+      "Janson": 2,
+      "Lando Calrissian": 6,
+      "Luke Skywalker": 4,
+      "Navigator": 1,
+      "Pilot": 1,
+      "Rebel Pilot": 2,
+      "Red Leader": 3,
+      "Red Three": 1,
+      "Red Two": 1
+    },
+    "sentiment": 5.294249530956822
+  },
+  "Willard": {
+    "connections": {
+      "Leia Organa": 1
+    },
+    "sentiment": 5.318888888888892
+  },
+  "Wingman'S Voice": {
+    "connections": {
+      "Darth Vader": 1
+    },
+    "sentiment": 5.412000000000001
+  },
+  "Y-Wing Pilot": {
+    "connections": {
+      "Ackbar": 1,
+      "Lando Calrissian": 1,
+      "Rebel Pilot": 1
+    },
+    "sentiment": 5.155208333333338
+  },
+  "Yoda": {
+    "connections": {
+      "Ben'S Voice": 2,
+      "Creature": 1,
+      "Luke Skywalker": 6,
+      "Obi-Wan Kenobi": 1
+    },
+    "sentiment": 5.3285754663651455
+  },
+  "Zev": {
+    "connections": {
+      "Han Solo": 1,
+      "Luke Skywalker": 1
+    },
+    "sentiment": 5.442875000000003
+  }
+}

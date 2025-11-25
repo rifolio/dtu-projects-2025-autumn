@@ -1,8 +1,15 @@
 {
+  "Another Cockpit": [
+    "Red Leader",
+    "Red Ten"
+  ],
   "Asteroid Cave": [
     "C-3PO",
     "Han Solo",
     "Leia Organa"
+  ],
+  "Barge Observation Deck": [
+    "C-3PO"
   ],
   "Battlefield": [
     "Officer",
@@ -10,7 +17,29 @@
   ],
   "Biggs' Cockpit": [
     "Biggs Darklighter",
+    "Read Leader",
     "Red Seven"
+  ],
+  "Boiler Room": [
+    "C-3PO",
+    "Ninedenine"
+  ],
+  "Bottom Of Cloud City": [
+    "Luke Skywalker"
+  ],
+  "Bunker": [
+    "C-3PO",
+    "Commander",
+    "Control Room Commander",
+    "Han Solo",
+    "Leia Organa",
+    "Scout",
+    "Second Commander"
+  ],
+  "Chief's Hut": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa"
   ],
   "Cloud City": [
     "Boba Fett",
@@ -39,35 +68,46 @@
     "Strange Voice",
     "Yoda"
   ],
+  "Dagobah Swamp": [
+    "Luke Skywalker",
+    "Obi-Wan Kenobi"
+  ],
   "Darth Vader's Cockpit": [
     "Darth Vader",
     "Wingman'S Voice"
   ],
   "Death Star": [
+    "Anakin",
     "Area",
     "Astro-Officer",
     "Ben'S Voice",
     "C-3PO",
     "Darth Vader",
     "Death Star Intercom Voice",
+    "Emperor Palpatine",
     "First Officer",
     "First Trooper",
     "Gantry Officer",
     "Grand Moff Tarkin",
+    "Guard",
     "Han Solo",
     "Imperial Officer",
     "Intercom Voice",
+    "Jerjerrod",
     "Leia Organa",
     "Luke Skywalker",
+    "Lure",
     "Motti",
     "Obi-Wan Kenobi",
     "Officer",
     "Officer Cass",
+    "Operator",
     "Second Trooper",
     "Tagge",
     "Trooper",
     "Trooper Voice",
-    "Voice"
+    "Voice",
+    "Voice Over Death Star Intercom"
   ],
   "Detention Area": [
     "Han Solo",
@@ -75,17 +115,117 @@
     "Luke Skywalker",
     "Officer"
   ],
+  "Docking Bay": [
+    "Darth Vader",
+    "Emperor Palpatine"
+  ],
   "Docking Bay 94": [
     "Han Solo",
     "Jabba"
+  ],
+  "Dune Sea": [
+    "Han Solo",
+    "Lando Calrissian",
+    "Leia Organa",
+    "Luke Skywalker"
+  ],
+  "Dungeon Cell": [
+    "Han Solo"
+  ],
+  "Dungeon Corridor": [
+    "C-3PO"
+  ],
+  "East Landing Platform": [
+    "C-3PO"
+  ],
+  "Emperor's Throne Room": [
+    "Darth Vader",
+    "Emperor Palpatine"
+  ],
+  "Emperor's Tower": [
+    "Darth Vader",
+    "Emperor Palpatine",
+    "Luke Skywalker"
+  ],
+  "Endor": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa"
+  ],
+  "Endor Forest": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa"
+  ],
+  "Ewok Village": [
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker"
+  ],
+  "Ewok Village Square": [
+    "C-3PO",
+    "End Credits Over Star Field",
+    "Fade Out",
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker"
+  ],
+  "Ext/Int": [
+    "Lando Calrissian",
+    "Pilot",
+    "Wedge Antilles"
+  ],
+  "Forest": [
+    "Bunker Commander",
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker",
+    "Stormtrooper"
+  ],
+  "Forest Clearing": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker"
+  ],
+  "Forest Landing Site": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa"
+  ],
+  "Galaxy": [
+    "End Credits Fade In And Out Over Background"
   ],
   "Gantry": [
     "Darth Vader",
     "Luke Skywalker"
   ],
+  "Gold Five's Cockpit": [
+    "Gold Five"
+  ],
+  "Gold Five's Y-Wing": [
+    "Gold Five"
+  ],
   "Gold Leader's Cockpit": [
     "Gold Leader",
     "Red Leader"
+  ],
+  "Gold Leader's Y-Wing": [
+    "Gold Leader"
+  ],
+  "Gold Two's Y-Wing": [
+    "Gold Two"
+  ],
+  "Headquarters Frigate": [
+    "Ackbar",
+    "C-3PO",
+    "General Madine",
+    "Han Solo",
+    "Lando Calrissian",
+    "Leia Organa",
+    "Luke Skywalker",
+    "Mon Mothma"
   ],
   "Hoth": [
     "Assistant Officer",
@@ -99,7 +239,21 @@
     "Rebel Fighter",
     "Rieekan",
     "Senior Controller",
+    "Trench Officer",
     "Wedge Antilles"
+  ],
+  "Imperial Landing Platform": [
+    "Commander",
+    "Darth Vader",
+    "Luke Skywalker",
+    "Lure"
+  ],
+  "Imperial Shuttle": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker",
+    "Shuttle Captain"
   ],
   "Imperial Snow Walker": [
     "Pilot",
@@ -109,6 +263,21 @@
     "Captain",
     "Chief Pilot",
     "Controller"
+  ],
+  "Jabba's Palace": [
+    "Bib",
+    "C-3PO",
+    "Strange Voice"
+  ],
+  "Jabba's Throne Room": [
+    "Bib",
+    "Boushh",
+    "C-3PO",
+    "Han Solo",
+    "Jabba",
+    "Leia Organa",
+    "Luke Skywalker",
+    "Oola"
   ],
   "Kenobi's Dwelling": [
     "C-3PO",
@@ -129,14 +298,28 @@
     "Luke Skywalker",
     "Owen Lars"
   ],
+  "Lifepod": [
+    "C-3PO"
+  ],
+  "Luke's Cockpit": [
+    "Wedge Antilles"
+  ],
   "Luke's Snowspeeder, Rogue Leader": [
     "Dack",
     "Luke Skywalker"
   ],
   "Luke's X-Wing": [
+    "Ben'S Voice",
+    "Biggs Darklighter",
+    "Gold Five",
     "Luke Skywalker",
     "Red Eleven",
-    "Red Leader"
+    "Red Leader",
+    "Red Leader'S Voice",
+    "Wedge Antilles"
+  ],
+  "Main Gate And Hall": [
+    "Luke Skywalker"
   ],
   "Main Hangar": [
     "Ben'S Voice",
@@ -160,6 +343,8 @@
     "Base Voice",
     "Biggs Darklighter",
     "C-3PO",
+    "Control Officer",
+    "End Credits Over Stars",
     "Gold Five",
     "Gold Leader",
     "Han Solo",
@@ -174,21 +359,33 @@
     "Wedge Antilles"
   ],
   "Millennium Falcon": [
+    "Ackbar",
     "C-3PO",
+    "Gray Leader",
+    "Green Leader",
     "Han Solo",
     "Intercom Voice",
     "Lando Calrissian",
     "Leia Organa",
     "Luke Skywalker",
-    "Obi-Wan Kenobi"
+    "Navigator",
+    "Obi-Wan Kenobi",
+    "Rebel Pilot",
+    "Red Three",
+    "Red Two",
+    "Space",
+    "Wedge Antilles",
+    "Y-Wing Pilot"
   ],
   "Mos Eisley": [
     "Greedo",
     "Han Solo"
   ],
   "Mos Eisley Spaceport": [
+    "C-3PO",
     "Han Solo",
-    "Luke Skywalker"
+    "Luke Skywalker",
+    "Trooper"
   ],
   "Plain Of Hoth": [
     "Han Solo",
@@ -205,6 +402,9 @@
     "Fixer",
     "Luke Skywalker"
   ],
+  "Rancor Pit": [
+    "C-3PO"
+  ],
   "Rebel Base": [
     "Announcer",
     "C-3PO",
@@ -220,32 +420,86 @@
     "Medical Droid",
     "Pilots",
     "Rieekan",
-    "Trench Officer"
+    "Trench Officer",
+    "Woman Controller"
   ],
   "Rebel Blockade Runner": [
+    "C-3PO",
     "Commander",
     "Darth Vader",
     "Imperial Officer",
     "Leia Organa",
     "Rebel Officer",
-    "Second Officer"
+    "Second Officer",
+    "Trooper"
   ],
-  "Red Leader's Cockpit": [
+  "Rebel Star Cruiser": [
+    "Ackbar",
+    "Controller",
+    "Lando Calrissian",
+    "Rebel Pilot",
+    "Wedge Antilles"
+  ],
+  "Red Leader Starship": [
     "Biggs Darklighter",
+    "Dodonna",
+    "Luke Skywalker",
     "Red Leader"
   ],
   "Red Ten's Cockpit": [
     "Luke Skywalker",
     "Red Ten"
   ],
+  "Ridge": [
+    "C-3PO",
+    "Han Solo"
+  ],
+  "Road To Jabba's Palace": [
+    "C-3PO"
+  ],
+  "Sail Barge": [
+    "C-3PO",
+    "Leia Organa"
+  ],
+  "Sandcrawler": [
+    "C-3PO"
+  ],
+  "Scout Campsite": [
+    "C-3PO",
+    "Han Solo",
+    "Luke Skywalker"
+  ],
+  "Skiff": [
+    "Han Solo",
+    "Lando Calrissian",
+    "Luke Skywalker"
+  ],
   "Snowspeeder": [
     "Han Solo",
     "Zev"
+  ],
+  "Space": [
+    "Dissolve To",
+    "Lando Calrissian",
+    "Rebel Pilot",
+    "Red Ten'S Voice",
+    "Return Of The Jedi",
+    "Wedge Antilles"
+  ],
+  "Star Cruiser": [
+    "Luke Skywalker"
+  ],
+  "Star Destroyer": [
+    "Imperial Officer"
   ],
   "Star Destroyer, Avenger": [
     "Communications Officer",
     "Needa",
     "Tracking Officer"
+  ],
+  "Super Star Destroyer": [
+    "Commander",
+    "Piett"
   ],
   "Tatooine": [
     "Bartender",
@@ -264,10 +518,23 @@
     "Owen Lars",
     "Second Trooper",
     "Speeder Lot",
-    "Trooper"
+    "Trooper",
+    "Woman"
+  ],
+  "Throne Room": [
+    "C-3PO",
+    "Han Solo",
+    "Leia Organa",
+    "Luke Skywalker"
+  ],
+  "Upper Deck": [
+    "C-3PO",
+    "Luke Skywalker"
   ],
   "Vader's Star Destroyer": [
     "Boba Fett",
+    "Commander",
+    "Controller",
     "Darth Vader",
     "Emperor Palpatine",
     "First Controller",
@@ -281,10 +548,26 @@
     "Red Leader",
     "Wedge Antilles"
   ],
+  "Wedge's Fighter": [
+    "Wedge Antilles"
+  ],
   "Wedge's Snowspeeder, Rogue Three": [
     "Janson",
     "Luke Skywalker",
     "Wedge Antilles"
+  ],
+  "Wingman's Cockpit": [
+    "Wingman"
+  ],
+  "X-Wing": [
+    "Luke Skywalker"
+  ],
+  "X-Wing Fighter": [
+    "Luke Skywalker"
+  ],
+  "Yoda's House": [
+    "Luke Skywalker",
+    "Yoda"
   ],
   "Zev's Snowspeeder, Rogue Two": [
     "Luke Skywalker",

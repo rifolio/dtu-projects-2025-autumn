@@ -1,0 +1,849 @@
+{
+  "Another Cockpit": {
+    "characters": [
+      "Red Leader",
+      "Red Ten"
+    ],
+    "sentiment": 5.364999999999999
+  },
+  "Asteroid Cave": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa"
+    ],
+    "sentiment": 5.265555555555557
+  },
+  "Barge Observation Deck": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.469111111111113
+  },
+  "Battlefield": {
+    "characters": [
+      "Officer",
+      "Second Officer"
+    ],
+    "sentiment": 5.132500000000001
+  },
+  "Biggs' Cockpit": {
+    "characters": [
+      "Biggs Darklighter",
+      "Read Leader",
+      "Red Seven"
+    ],
+    "sentiment": 5.170877192982454
+  },
+  "Boiler Room": {
+    "characters": [
+      "C-3PO",
+      "Ninedenine"
+    ],
+    "sentiment": 5.2659036144578355
+  },
+  "Bottom Of Cloud City": {
+    "characters": [
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.284166666666667
+  },
+  "Bunker": {
+    "characters": [
+      "C-3PO",
+      "Commander",
+      "Control Room Commander",
+      "Han Solo",
+      "Leia Organa",
+      "Scout",
+      "Second Commander"
+    ],
+    "sentiment": 5.21157894736842
+  },
+  "Chief's Hut": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa"
+    ],
+    "sentiment": 5.369764705882362
+  },
+  "Cloud City": {
+    "characters": [
+      "Boba Fett",
+      "C-3PO",
+      "Darth Vader",
+      "Han Solo",
+      "Imperial Officer",
+      "Imperial Soldier",
+      "Lando Calrissian",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Man'S Voice",
+      "Second Threepio"
+    ],
+    "sentiment": 5.467499999999999
+  },
+  "Creature's House": {
+    "characters": [
+      "Ben'S Voice",
+      "Creature",
+      "Luke Skywalker",
+      "Yoda"
+    ],
+    "sentiment": 5.352097560975611
+  },
+  "Dagobah": {
+    "characters": [
+      "Ben'S Voice",
+      "Creature",
+      "Luke Skywalker",
+      "Obi-Wan Kenobi",
+      "Strange Voice",
+      "Yoda"
+    ],
+    "sentiment": 5.307927631578953
+  },
+  "Dagobah Swamp": {
+    "characters": [
+      "Luke Skywalker",
+      "Obi-Wan Kenobi"
+    ],
+    "sentiment": 5.35874647887322
+  },
+  "Darth Vader's Cockpit": {
+    "characters": [
+      "Darth Vader",
+      "Wingman'S Voice"
+    ],
+    "sentiment": 5.347425742574252
+  },
+  "Death Star": {
+    "characters": [
+      "Anakin",
+      "Area",
+      "Astro-Officer",
+      "Ben'S Voice",
+      "C-3PO",
+      "Darth Vader",
+      "Death Star Intercom Voice",
+      "Emperor Palpatine",
+      "First Officer",
+      "First Trooper",
+      "Gantry Officer",
+      "Grand Moff Tarkin",
+      "Guard",
+      "Han Solo",
+      "Imperial Officer",
+      "Intercom Voice",
+      "Jerjerrod",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Lure",
+      "Motti",
+      "Obi-Wan Kenobi",
+      "Officer",
+      "Officer Cass",
+      "Operator",
+      "Second Trooper",
+      "Tagge",
+      "Trooper",
+      "Trooper Voice",
+      "Voice",
+      "Voice Over Death Star Intercom"
+    ],
+    "sentiment": 5.165106382978723
+  },
+  "Detention Area": {
+    "characters": [
+      "Han Solo",
+      "Intercom Voice",
+      "Luke Skywalker",
+      "Officer"
+    ],
+    "sentiment": 5.222754237288139
+  },
+  "Docking Bay": {
+    "characters": [
+      "Darth Vader",
+      "Emperor Palpatine"
+    ],
+    "sentiment": 5.36794392523365
+  },
+  "Docking Bay 94": {
+    "characters": [
+      "Han Solo",
+      "Jabba"
+    ],
+    "sentiment": 5.315949820788532
+  },
+  "Dune Sea": {
+    "characters": [
+      "Han Solo",
+      "Lando Calrissian",
+      "Leia Organa",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.346727941176479
+  },
+  "Dungeon Cell": {
+    "characters": [
+      "Han Solo"
+    ],
+    "sentiment": 5.194480000000005
+  },
+  "Dungeon Corridor": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.188225806451614
+  },
+  "East Landing Platform": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.173953488372097
+  },
+  "Emperor's Throne Room": {
+    "characters": [
+      "Darth Vader",
+      "Emperor Palpatine"
+    ],
+    "sentiment": 5.267862595419851
+  },
+  "Emperor's Tower": {
+    "characters": [
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.2268670886076025
+  },
+  "Endor": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa"
+    ],
+    "sentiment": 5.233137254901962
+  },
+  "Endor Forest": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa"
+    ],
+    "sentiment": 5.333888888888889
+  },
+  "Ewok Village": {
+    "characters": [
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.396062176165808
+  },
+  "Ewok Village Square": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.516666666666671
+  },
+  "Ext/Int": {
+    "characters": [
+      "Lando Calrissian",
+      "Pilot",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.225030303030304
+  },
+  "Forest": {
+    "characters": [
+      "Bunker Commander",
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Stormtrooper"
+    ],
+    "sentiment": 5.2271874999999985
+  },
+  "Forest Clearing": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.323414634146345
+  },
+  "Forest Landing Site": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa"
+    ],
+    "sentiment": 5.240727272727274
+  },
+  "Gantry": {
+    "characters": [
+      "Darth Vader",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.214527220630373
+  },
+  "Gold Five's Cockpit": {
+    "characters": [
+      "Gold Five"
+    ],
+    "sentiment": 5.431111111111112
+  },
+  "Gold Five's Y-Wing": {
+    "characters": [
+      "Gold Five"
+    ],
+    "sentiment": 5.625185185185185
+  },
+  "Gold Leader's Cockpit": {
+    "characters": [
+      "Gold Leader",
+      "Red Leader"
+    ],
+    "sentiment": 5.854545454545455
+  },
+  "Gold Leader's Y-Wing": {
+    "characters": [
+      "Gold Leader"
+    ],
+    "sentiment": 5.441810344827586
+  },
+  "Gold Two's Y-Wing": {
+    "characters": [
+      "Gold Two"
+    ],
+    "sentiment": 5.32894736842105
+  },
+  "Headquarters Frigate": {
+    "characters": [
+      "Ackbar",
+      "C-3PO",
+      "General Madine",
+      "Han Solo",
+      "Lando Calrissian",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Mon Mothma"
+    ],
+    "sentiment": 5.373243243243247
+  },
+  "Hoth": {
+    "characters": [
+      "Assistant Officer",
+      "C-3PO",
+      "Deck Officer",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Obi-Wan Kenobi",
+      "Rebel Captain",
+      "Rebel Fighter",
+      "Rieekan",
+      "Senior Controller",
+      "Trench Officer",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.521410256410258
+  },
+  "Imperial Landing Platform": {
+    "characters": [
+      "Commander",
+      "Darth Vader",
+      "Luke Skywalker",
+      "Lure"
+    ],
+    "sentiment": 5.331543408360135
+  },
+  "Imperial Shuttle": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Shuttle Captain"
+    ],
+    "sentiment": 5.262413793103449
+  },
+  "Imperial Snow Walker": {
+    "characters": [
+      "Pilot",
+      "Veers"
+    ],
+    "sentiment": 5.302051282051282
+  },
+  "Imperial Star Destroyer": {
+    "characters": [
+      "Captain",
+      "Chief Pilot",
+      "Controller"
+    ],
+    "sentiment": 5.509333333333332
+  },
+  "Jabba's Palace": {
+    "characters": [
+      "Bib",
+      "C-3PO",
+      "Strange Voice"
+    ],
+    "sentiment": 5.3688
+  },
+  "Jabba's Throne Room": {
+    "characters": [
+      "Bib",
+      "Boushh",
+      "C-3PO",
+      "Han Solo",
+      "Jabba",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Oola"
+    ],
+    "sentiment": 5.3617010309278355
+  },
+  "Kenobi's Dwelling": {
+    "characters": [
+      "C-3PO",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Obi-Wan Kenobi"
+    ],
+    "sentiment": 5.332297297297287
+  },
+  "Landing Platform": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Lando Calrissian",
+      "Leia Organa"
+    ],
+    "sentiment": 5.335999999999999
+  },
+  "Lars Homestead": {
+    "characters": [
+      "Beru Lars",
+      "C-3PO",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Owen Lars"
+    ],
+    "sentiment": 5.443508771929825
+  },
+  "Lifepod": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.072592592592593
+  },
+  "Luke's Cockpit": {
+    "characters": [
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.479545454545455
+  },
+  "Luke's Snowspeeder, Rogue Leader": {
+    "characters": [
+      "Dack",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.334561403508774
+  },
+  "Luke's X-Wing": {
+    "characters": [
+      "Ben'S Voice",
+      "Biggs Darklighter",
+      "Gold Five",
+      "Luke Skywalker",
+      "Red Eleven",
+      "Red Leader",
+      "Red Leader'S Voice",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.73
+  },
+  "Main Gate And Hall": {
+    "characters": [
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.236315789473686
+  },
+  "Main Hangar": {
+    "characters": [
+      "Ben'S Voice",
+      "Biggs Darklighter",
+      "C-3PO",
+      "Chief",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Red Leader"
+    ],
+    "sentiment": 5.032857142857142
+  },
+  "Massassi": {
+    "characters": [
+      "Dodonna",
+      "Gold Leader",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Wedge Antilles",
+      "Willard"
+    ],
+    "sentiment": 5.272396694214881
+  },
+  "Massassi Outpost": {
+    "characters": [
+      "Base Voice",
+      "Biggs Darklighter",
+      "C-3PO",
+      "Control Officer",
+      "Gold Five",
+      "Gold Leader",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Man'S Voice",
+      "Massassi Intercom Voice",
+      "Red Leader",
+      "Red Nine'S Voice",
+      "Red Ten",
+      "Technician",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.417750000000002
+  },
+  "Millennium Falcon": {
+    "characters": [
+      "Ackbar",
+      "C-3PO",
+      "Gray Leader",
+      "Green Leader",
+      "Han Solo",
+      "Intercom Voice",
+      "Lando Calrissian",
+      "Leia Organa",
+      "Luke Skywalker",
+      "Navigator",
+      "Obi-Wan Kenobi",
+      "Rebel Pilot",
+      "Red Three",
+      "Red Two",
+      "Space",
+      "Wedge Antilles",
+      "Y-Wing Pilot"
+    ],
+    "sentiment": 6.324
+  },
+  "Mos Eisley": {
+    "characters": [
+      "Greedo",
+      "Han Solo"
+    ],
+    "sentiment": 5.244000000000004
+  },
+  "Mos Eisley Spaceport": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Luke Skywalker",
+      "Trooper"
+    ],
+    "sentiment": 5.079531250000003
+  },
+  "Plain Of Hoth": {
+    "characters": [
+      "Han Solo",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.23542016806723
+  },
+  "Porkins' Cockpit": {
+    "characters": [
+      "Porkins",
+      "Red Nine"
+    ],
+    "sentiment": 5.433333333333333
+  },
+  "Power Station": {
+    "characters": [
+      "Biggs Darklighter",
+      "Camie",
+      "Deak",
+      "Fixer",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.431625615763547
+  },
+  "Rancor Pit": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 4.895333333333334
+  },
+  "Rebel Base": {
+    "characters": [
+      "Announcer",
+      "C-3PO",
+      "Controller",
+      "Dack",
+      "Derlin",
+      "Han Solo",
+      "Head Controller",
+      "Hobbie",
+      "Leia Organa",
+      "Lieutenant",
+      "Luke Skywalker",
+      "Medical Droid",
+      "Pilots",
+      "Rieekan",
+      "Trench Officer",
+      "Woman Controller"
+    ],
+    "sentiment": 5.070909090909092
+  },
+  "Rebel Blockade Runner": {
+    "characters": [
+      "C-3PO",
+      "Commander",
+      "Darth Vader",
+      "Imperial Officer",
+      "Leia Organa",
+      "Rebel Officer",
+      "Second Officer",
+      "Trooper"
+    ],
+    "sentiment": 5.199500000000005
+  },
+  "Rebel Star Cruiser": {
+    "characters": [
+      "Ackbar",
+      "Controller",
+      "Lando Calrissian",
+      "Rebel Pilot",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.056666666666667
+  },
+  "Red Leader Starship": {
+    "characters": [
+      "Biggs Darklighter",
+      "Dodonna",
+      "Luke Skywalker",
+      "Red Leader"
+    ],
+    "sentiment": 5.456000000000001
+  },
+  "Red Ten's Cockpit": {
+    "characters": [
+      "Luke Skywalker",
+      "Red Ten"
+    ],
+    "sentiment": 5.208
+  },
+  "Ridge": {
+    "characters": [
+      "C-3PO",
+      "Han Solo"
+    ],
+    "sentiment": 5.22390243902439
+  },
+  "Road To Jabba's Palace": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.350000000000002
+  },
+  "Sail Barge": {
+    "characters": [
+      "C-3PO",
+      "Leia Organa"
+    ],
+    "sentiment": 4.958260869565219
+  },
+  "Sandcrawler": {
+    "characters": [
+      "C-3PO"
+    ],
+    "sentiment": 5.22012658227848
+  },
+  "Scout Campsite": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.319000000000003
+  },
+  "Skiff": {
+    "characters": [
+      "Han Solo",
+      "Lando Calrissian",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.272571428571427
+  },
+  "Snowspeeder": {
+    "characters": [
+      "Han Solo",
+      "Zev"
+    ],
+    "sentiment": 5.544999999999999
+  },
+  "Space": {
+    "characters": [
+      "Dissolve To",
+      "Lando Calrissian",
+      "Rebel Pilot",
+      "Red Ten'S Voice",
+      "Return Of The Jedi",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.365079365079363
+  },
+  "Star Cruiser": {
+    "characters": [
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.358344827586207
+  },
+  "Star Destroyer": {
+    "characters": [
+      "Imperial Officer"
+    ],
+    "sentiment": 5.421081081081082
+  },
+  "Star Destroyer, Avenger": {
+    "characters": [
+      "Communications Officer",
+      "Needa",
+      "Tracking Officer"
+    ],
+    "sentiment": 5.210925925925928
+  },
+  "Super Star Destroyer": {
+    "characters": [
+      "Commander",
+      "Piett"
+    ],
+    "sentiment": 5.354999999999998
+  },
+  "Tatooine": {
+    "characters": [
+      "Bartender",
+      "Beru Lars",
+      "Biggs Darklighter",
+      "C-3PO",
+      "Camie",
+      "Creature",
+      "Day",
+      "First Trooper",
+      "Fixer",
+      "Han Solo",
+      "Human",
+      "Luke Skywalker",
+      "Obi-Wan Kenobi",
+      "Owen Lars",
+      "Second Trooper",
+      "Speeder Lot",
+      "Trooper",
+      "Woman"
+    ],
+    "sentiment": 5.360967741935483
+  },
+  "Throne Room": {
+    "characters": [
+      "C-3PO",
+      "Han Solo",
+      "Leia Organa",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.192820512820516
+  },
+  "Upper Deck": {
+    "characters": [
+      "C-3PO",
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.168200000000002
+  },
+  "Vader's Star Destroyer": {
+    "characters": [
+      "Boba Fett",
+      "Commander",
+      "Controller",
+      "Darth Vader",
+      "Emperor Palpatine",
+      "First Controller",
+      "Needa",
+      "Ozzel",
+      "Piett",
+      "Second Controller",
+      "Veers"
+    ],
+    "sentiment": 5.097083333333336
+  },
+  "Wedge's Cockpit": {
+    "characters": [
+      "Red Leader",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.195087719298247
+  },
+  "Wedge's Fighter": {
+    "characters": [
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.44
+  },
+  "Wedge's Snowspeeder, Rogue Three": {
+    "characters": [
+      "Janson",
+      "Luke Skywalker",
+      "Wedge Antilles"
+    ],
+    "sentiment": 5.163076923076923
+  },
+  "Wingman's Cockpit": {
+    "characters": [
+      "Wingman"
+    ],
+    "sentiment": 5.048
+  },
+  "X-Wing": {
+    "characters": [
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.354634146341468
+  },
+  "X-Wing Fighter": {
+    "characters": [
+      "Luke Skywalker"
+    ],
+    "sentiment": 5.459473684210526
+  },
+  "Yoda's House": {
+    "characters": [
+      "Luke Skywalker",
+      "Yoda"
+    ],
+    "sentiment": 5.355134328358209
+  },
+  "Zev's Snowspeeder, Rogue Two": {
+    "characters": [
+      "Luke Skywalker",
+      "Zev"
+    ],
+    "sentiment": 5.410322580645162
+  }
+}

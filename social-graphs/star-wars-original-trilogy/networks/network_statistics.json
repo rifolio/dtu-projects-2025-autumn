@@ -1,15 +1,15 @@
 {
   "character_network": {
-    "nodes": 119,
-    "edges": 332,
-    "density": 0.04728671129468737,
+    "nodes": 118,
+    "edges": 328,
+    "density": 0.04751557293930175,
     "components": 6,
-    "average_degree": 5.579831932773109
+    "average_degree": 5.559322033898305
   },
   "bipartite_network": {
-    "total_nodes": 213,
-    "character_nodes": 119,
+    "total_nodes": 212,
+    "character_nodes": 118,
     "location_nodes": 94,
-    "edges": 370
+    "edges": 368
   }
 }

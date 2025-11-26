@@ -14,8 +14,7 @@
   },
   "Anakin": {
     "Darth Vader": 1,
-    "Luke Skywalker": 1,
-    "Lure": 1
+    "Luke Skywalker": 1
   },
   "Announcer": {
     "C-3PO": 2,
@@ -185,7 +184,6 @@
     "Han Solo": 1,
     "Leia Organa": 2,
     "Luke Skywalker": 1,
-    "Lure": 1,
     "Piett": 2,
     "Second Officer": 1
   },
@@ -240,7 +238,6 @@
     "Lando Calrissian": 4,
     "Leia Organa": 2,
     "Luke Skywalker": 7,
-    "Lure": 2,
     "Motti": 1,
     "Needa": 1,
     "Obi-Wan Kenobi": 1,
@@ -572,7 +569,6 @@
     "Jabba": 2,
     "Lando Calrissian": 6,
     "Leia Organa": 26,
-    "Lure": 2,
     "Man'S Voice": 1,
     "Medical Droid": 1,
     "Mon Mothma": 1,
@@ -589,12 +585,6 @@
     "Wedge Antilles": 4,
     "Yoda": 6,
     "Zev": 1
-  },
-  "Lure": {
-    "Anakin": 1,
-    "Commander": 1,
-    "Darth Vader": 2,
-    "Luke Skywalker": 2
   },
   "Man'S Voice": {
     "C-3PO": 1,

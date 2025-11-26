@@ -32,7 +32,7 @@
       "Leia Organa": 2,
       "Luke Skywalker": 2
     },
-    "sentiment": 5.393904958677685
+    "sentiment": 5.394033264033263
   },
   "Area": {
     "connections": {
@@ -83,7 +83,7 @@
       "Red Leader": 1,
       "Yoda": 2
     },
-    "sentiment": 5.339558404558387
+    "sentiment": 5.340342368045632
   },
   "Beru Lars": {
     "connections": {
@@ -92,7 +92,7 @@
       "Luke Skywalker": 3,
       "Owen Lars": 3
     },
-    "sentiment": 5.375900430239683
+    "sentiment": 5.376516646115885
   },
   "Bib": {
     "connections": {
@@ -100,7 +100,7 @@
       "Jabba": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.271011560693644
+    "sentiment": 5.271749271137029
   },
   "Biggs Darklighter": {
     "connections": {
@@ -202,7 +202,7 @@
       "Trooper": 2,
       "Trooper Voice": 1
     },
-    "sentiment": 5.298605430387078
+    "sentiment": 5.2986324192988725
   },
   "Camie": {
     "connections": {
@@ -257,7 +257,7 @@
       "Needa": 1,
       "Tracking Officer": 1
     },
-    "sentiment": 5.211192660550462
+    "sentiment": 5.210925925925928
   },
   "Control Room Commander": {
     "connections": {
@@ -290,7 +290,7 @@
       "Strange Voice": 1,
       "Yoda": 1
     },
-    "sentiment": 5.333223495701989
+    "sentiment": 5.3342569992821085
   },
   "Dack": {
     "connections": {
@@ -424,7 +424,7 @@
       "First Trooper": 1,
       "Trooper": 1
     },
-    "sentiment": 5.212403100775197
+    "sentiment": 5.209687500000003
   },
   "First Trooper": {
     "connections": {
@@ -437,7 +437,7 @@
       "Second Trooper": 2,
       "Trooper": 1
     },
-    "sentiment": 5.226941431670281
+    "sentiment": 5.226214442013128
   },
   "Fixer": {
     "connections": {
@@ -567,7 +567,7 @@
       "Trooper": 2,
       "Zev": 1
     },
-    "sentiment": 5.293807213036202
+    "sentiment": 5.293694661067807
   },
   "Head Controller": {
     "connections": {
@@ -576,7 +576,7 @@
       "Han Solo": 1,
       "Leia Organa": 1
     },
-    "sentiment": 5.272215568862281
+    "sentiment": 5.270365853658542
   },
   "Hobbie": {
     "connections": {
@@ -638,7 +638,7 @@
       "Luke Skywalker": 2,
       "Oola": 1
     },
-    "sentiment": 5.3373469387754895
+    "sentiment": 5.338177172061308
   },
   "Janson": {
     "connections": {
@@ -677,7 +677,7 @@
       "Wedge Antilles": 6,
       "Y-Wing Pilot": 1
     },
-    "sentiment": 5.275918150975376
+    "sentiment": 5.275931663836985
   },
   "Leia Organa": {
     "connections": {
@@ -716,7 +716,7 @@
       "Technician": 1,
       "Willard": 1
     },
-    "sentiment": 5.301676037292838
+    "sentiment": 5.3017809293045675
   },
   "Lieutenant": {
     "connections": {
@@ -777,7 +777,7 @@
       "Yoda": 6,
       "Zev": 1
     },
-    "sentiment": 5.312484200291621
+    "sentiment": 5.31254037789276
   },
   "Lure": {
     "connections": {
@@ -845,7 +845,7 @@
       "Piett": 1,
       "Tracking Officer": 1
     },
-    "sentiment": 5.283358208955226
+    "sentiment": 5.283520599250939
   },
   "Ninedenine": {
     "connections": {
@@ -884,7 +884,7 @@
       "Second Trooper": 1,
       "Voice": 2
     },
-    "sentiment": 5.268196721311469
+    "sentiment": 5.268308702791454
   },
   "Officer Cass": {
     "connections": {
@@ -913,7 +913,7 @@
       "C-3PO": 2,
       "Luke Skywalker": 3
     },
-    "sentiment": 5.35607003891049
+    "sentiment": 5.356582031249984
   },
   "Ozzel": {
     "connections": {
@@ -1060,7 +1060,7 @@
       "Leia Organa": 4,
       "Senior Controller": 1
     },
-    "sentiment": 5.267056074766357
+    "sentiment": 5.268056206088994
   },
   "Second Commander": {
     "connections": {
@@ -1092,7 +1092,7 @@
       "Han Solo": 1,
       "Lando Calrissian": 1
     },
-    "sentiment": 5.364820143884896
+    "sentiment": 5.3634057971014535
   },
   "Second Trooper": {
     "connections": {
@@ -1132,7 +1132,7 @@
       "Creature": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.384408099688459
+    "sentiment": 5.385039001560047
   },
   "Tagge": {
     "connections": {
@@ -1156,7 +1156,7 @@
       "Communications Officer": 1,
       "Needa": 1
     },
-    "sentiment": 5.211192660550462
+    "sentiment": 5.210925925925928
   },
   "Trench Officer": {
     "connections": {
@@ -1176,7 +1176,7 @@
       "Luke Skywalker": 2,
       "Obi-Wan Kenobi": 2
     },
-    "sentiment": 5.297173913043455
+    "sentiment": 5.296887921653948
   },
   "Trooper Voice": {
     "connections": {
@@ -1249,7 +1249,7 @@
       "Luke Skywalker": 6,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.3285754663651455
+    "sentiment": 5.32858196256378
   },
   "Zev": {
     "connections": {

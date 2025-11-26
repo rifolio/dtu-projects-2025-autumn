@@ -12,7 +12,7 @@
       "Han Solo",
       "Leia Organa"
     ],
-    "sentiment": 5.287324218750004
+    "sentiment": 5.28800391389433
   },
   "Barge Observation Deck": {
     "characters": [
@@ -82,7 +82,7 @@
       "Man'S Voice",
       "Second Threepio"
     ],
-    "sentiment": 5.298092679650716
+    "sentiment": 5.298143913920589
   },
   "Creature's House": {
     "characters": [
@@ -91,7 +91,7 @@
       "Luke Skywalker",
       "Yoda"
     ],
-    "sentiment": 5.3493689320388365
+    "sentiment": 5.352097560975611
   },
   "Dagobah": {
     "characters": [
@@ -102,7 +102,7 @@
       "Strange Voice",
       "Yoda"
     ],
-    "sentiment": 5.3227448810182265
+    "sentiment": 5.322803324099685
   },
   "Dagobah Swamp": {
     "characters": [
@@ -152,7 +152,7 @@
       "Voice",
       "Voice Over Death Star Intercom"
     ],
-    "sentiment": 5.278910177535611
+    "sentiment": 5.279021471312933
   },
   "Detention Area": {
     "characters": [
@@ -175,7 +175,7 @@
       "Han Solo",
       "Jabba"
     ],
-    "sentiment": 5.31682142857143
+    "sentiment": 5.315949820788532
   },
   "Dune Sea": {
     "characters": [
@@ -241,7 +241,7 @@
       "Leia Organa",
       "Luke Skywalker"
     ],
-    "sentiment": 5.396564102564105
+    "sentiment": 5.396062176165808
   },
   "Ewok Village Square": {
     "characters": [
@@ -271,7 +271,7 @@
       "Luke Skywalker",
       "Stormtrooper"
     ],
-    "sentiment": 5.274517601042991
+    "sentiment": 5.273239712606105
   },
   "Forest Clearing": {
     "characters": [
@@ -405,7 +405,7 @@
       "C-3PO",
       "Strange Voice"
     ],
-    "sentiment": 5.2373702422145385
+    "sentiment": 5.237902097902104
   },
   "Jabba's Throne Room": {
     "characters": [
@@ -418,7 +418,7 @@
       "Luke Skywalker",
       "Oola"
     ],
-    "sentiment": 5.329180967238669
+    "sentiment": 5.330109289617465
   },
   "Kenobi's Dwelling": {
     "characters": [
@@ -446,7 +446,7 @@
       "Luke Skywalker",
       "Owen Lars"
     ],
-    "sentiment": 5.373198733174955
+    "sentiment": 5.3735103011093255
   },
   "Lifepod": {
     "characters": [
@@ -478,7 +478,7 @@
       "Red Leader'S Voice",
       "Wedge Antilles"
     ],
-    "sentiment": 5.24244573082488
+    "sentiment": 5.243381712626984
   },
   "Main Gate And Hall": {
     "characters": [
@@ -552,7 +552,7 @@
       "Wedge Antilles",
       "Y-Wing Pilot"
     ],
-    "sentiment": 5.302641936213522
+    "sentiment": 5.3025837104072355
   },
   "Mos Eisley": {
     "characters": [
@@ -619,7 +619,7 @@
       "Trench Officer",
       "Woman Controller"
     ],
-    "sentiment": 5.350655737704892
+    "sentiment": 5.351060329067615
   },
   "Rebel Blockade Runner": {
     "characters": [
@@ -738,7 +738,7 @@
       "Needa",
       "Tracking Officer"
     ],
-    "sentiment": 5.211192660550462
+    "sentiment": 5.210925925925928
   },
   "Super Star Destroyer": {
     "characters": [
@@ -768,7 +768,7 @@
       "Trooper",
       "Woman"
     ],
-    "sentiment": 5.293649915845164
+    "sentiment": 5.2937160048134855
   },
   "Throne Room": {
     "characters": [
@@ -846,7 +846,7 @@
       "Luke Skywalker",
       "Yoda"
     ],
-    "sentiment": 5.357366863905326
+    "sentiment": 5.355134328358209
   },
   "Zev's Snowspeeder, Rogue Two": {
     "characters": [

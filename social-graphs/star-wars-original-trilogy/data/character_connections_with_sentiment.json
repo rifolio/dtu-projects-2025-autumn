@@ -397,18 +397,6 @@
     },
     "sentiment": 5.32148361127081
   },
-  "End Credits Over Star Field": {
-    "connections": {
-      "Fade Out": 1
-    },
-    "sentiment": 5.516666666666671
-  },
-  "Fade Out": {
-    "connections": {
-      "End Credits Over Star Field": 1
-    },
-    "sentiment": 5.516666666666671
-  },
   "First Controller": {
     "connections": {
       "Boba Fett": 1,

@@ -12,7 +12,7 @@
       "Han Solo",
       "Leia Organa"
     ],
-    "sentiment": 5.28800391389433
+    "sentiment": 5.265555555555557
   },
   "Barge Observation Deck": {
     "characters": [
@@ -33,7 +33,7 @@
       "Read Leader",
       "Red Seven"
     ],
-    "sentiment": 5.427317073170731
+    "sentiment": 5.170877192982454
   },
   "Boiler Room": {
     "characters": [
@@ -46,7 +46,7 @@
     "characters": [
       "Luke Skywalker"
     ],
-    "sentiment": 5.20267605633803
+    "sentiment": 5.284166666666667
   },
   "Bunker": {
     "characters": [
@@ -58,7 +58,7 @@
       "Scout",
       "Second Commander"
     ],
-    "sentiment": 5.228009259259263
+    "sentiment": 5.21157894736842
   },
   "Chief's Hut": {
     "characters": [
@@ -82,7 +82,7 @@
       "Man'S Voice",
       "Second Threepio"
     ],
-    "sentiment": 5.298143913920589
+    "sentiment": 5.467499999999999
   },
   "Creature's House": {
     "characters": [
@@ -102,7 +102,7 @@
       "Strange Voice",
       "Yoda"
     ],
-    "sentiment": 5.322803324099685
+    "sentiment": 5.307927631578953
   },
   "Dagobah Swamp": {
     "characters": [
@@ -116,7 +116,7 @@
       "Darth Vader",
       "Wingman'S Voice"
     ],
-    "sentiment": 5.295476190476194
+    "sentiment": 5.347425742574252
   },
   "Death Star": {
     "characters": [
@@ -152,7 +152,7 @@
       "Voice",
       "Voice Over Death Star Intercom"
     ],
-    "sentiment": 5.279021471312933
+    "sentiment": 5.165106382978723
   },
   "Detention Area": {
     "characters": [
@@ -217,7 +217,7 @@
       "Emperor Palpatine",
       "Luke Skywalker"
     ],
-    "sentiment": 5.264334928229642
+    "sentiment": 5.2268670886076025
   },
   "Endor": {
     "characters": [
@@ -225,7 +225,7 @@
       "Han Solo",
       "Leia Organa"
     ],
-    "sentiment": 5.220459770114945
+    "sentiment": 5.233137254901962
   },
   "Endor Forest": {
     "characters": [
@@ -233,7 +233,7 @@
       "Han Solo",
       "Leia Organa"
     ],
-    "sentiment": 5.419354838709679
+    "sentiment": 5.333888888888889
   },
   "Ewok Village": {
     "characters": [
@@ -250,7 +250,7 @@
       "Leia Organa",
       "Luke Skywalker"
     ],
-    "sentiment": 5.304951923076929
+    "sentiment": 5.516666666666671
   },
   "Ext/Int": {
     "characters": [
@@ -269,7 +269,7 @@
       "Luke Skywalker",
       "Stormtrooper"
     ],
-    "sentiment": 5.273239712606105
+    "sentiment": 5.2271874999999985
   },
   "Forest Clearing": {
     "characters": [
@@ -278,7 +278,7 @@
       "Leia Organa",
       "Luke Skywalker"
     ],
-    "sentiment": 5.280110650069144
+    "sentiment": 5.323414634146345
   },
   "Forest Landing Site": {
     "characters": [
@@ -293,7 +293,7 @@
       "Darth Vader",
       "Luke Skywalker"
     ],
-    "sentiment": 5.223628048780488
+    "sentiment": 5.214527220630373
   },
   "Gold Five's Cockpit": {
     "characters": [
@@ -318,7 +318,7 @@
     "characters": [
       "Gold Leader"
     ],
-    "sentiment": 5.402783505154643
+    "sentiment": 5.441810344827586
   },
   "Gold Two's Y-Wing": {
     "characters": [
@@ -337,7 +337,7 @@
       "Luke Skywalker",
       "Mon Mothma"
     ],
-    "sentiment": 5.274402515723254
+    "sentiment": 5.373243243243247
   },
   "Hoth": {
     "characters": [
@@ -355,7 +355,7 @@
       "Trench Officer",
       "Wedge Antilles"
     ],
-    "sentiment": 5.260069576217548
+    "sentiment": 5.521410256410258
   },
   "Imperial Landing Platform": {
     "characters": [
@@ -374,14 +374,14 @@
       "Luke Skywalker",
       "Shuttle Captain"
     ],
-    "sentiment": 5.4091935483871
+    "sentiment": 5.262413793103449
   },
   "Imperial Snow Walker": {
     "characters": [
       "Pilot",
       "Veers"
     ],
-    "sentiment": 5.4473972602739735
+    "sentiment": 5.302051282051282
   },
   "Imperial Star Destroyer": {
     "characters": [
@@ -389,7 +389,7 @@
       "Chief Pilot",
       "Controller"
     ],
-    "sentiment": 5.296923076923077
+    "sentiment": 5.509333333333332
   },
   "Jabba's Palace": {
     "characters": [
@@ -397,7 +397,7 @@
       "C-3PO",
       "Strange Voice"
     ],
-    "sentiment": 5.237902097902104
+    "sentiment": 5.3688
   },
   "Jabba's Throne Room": {
     "characters": [
@@ -410,7 +410,7 @@
       "Luke Skywalker",
       "Oola"
     ],
-    "sentiment": 5.330109289617465
+    "sentiment": 5.3617010309278355
   },
   "Kenobi's Dwelling": {
     "characters": [
@@ -428,7 +428,7 @@
       "Lando Calrissian",
       "Leia Organa"
     ],
-    "sentiment": 5.382592592592596
+    "sentiment": 5.335999999999999
   },
   "Lars Homestead": {
     "characters": [
@@ -438,7 +438,7 @@
       "Luke Skywalker",
       "Owen Lars"
     ],
-    "sentiment": 5.3735103011093255
+    "sentiment": 5.443508771929825
   },
   "Lifepod": {
     "characters": [
@@ -450,14 +450,14 @@
     "characters": [
       "Wedge Antilles"
     ],
-    "sentiment": 5.510000000000001
+    "sentiment": 5.479545454545455
   },
   "Luke's Snowspeeder, Rogue Leader": {
     "characters": [
       "Dack",
       "Luke Skywalker"
     ],
-    "sentiment": 5.3171818181818225
+    "sentiment": 5.334561403508774
   },
   "Luke's X-Wing": {
     "characters": [
@@ -470,7 +470,7 @@
       "Red Leader'S Voice",
       "Wedge Antilles"
     ],
-    "sentiment": 5.243381712626984
+    "sentiment": 5.73
   },
   "Main Gate And Hall": {
     "characters": [
@@ -489,7 +489,7 @@
       "Luke Skywalker",
       "Red Leader"
     ],
-    "sentiment": 5.390393559928436
+    "sentiment": 5.032857142857142
   },
   "Massassi": {
     "characters": [
@@ -500,7 +500,7 @@
       "Wedge Antilles",
       "Willard"
     ],
-    "sentiment": 5.285000000000005
+    "sentiment": 5.272396694214881
   },
   "Massassi Outpost": {
     "characters": [
@@ -521,7 +521,7 @@
       "Technician",
       "Wedge Antilles"
     ],
-    "sentiment": 5.350951704545436
+    "sentiment": 5.417750000000002
   },
   "Millennium Falcon": {
     "characters": [
@@ -543,7 +543,7 @@
       "Wedge Antilles",
       "Y-Wing Pilot"
     ],
-    "sentiment": 5.3025837104072355
+    "sentiment": 6.324
   },
   "Mos Eisley": {
     "characters": [
@@ -559,7 +559,7 @@
       "Luke Skywalker",
       "Trooper"
     ],
-    "sentiment": 5.195269461077849
+    "sentiment": 5.079531250000003
   },
   "Plain Of Hoth": {
     "characters": [
@@ -589,7 +589,7 @@
     "characters": [
       "C-3PO"
     ],
-    "sentiment": 5.135267857142864
+    "sentiment": 4.895333333333334
   },
   "Rebel Base": {
     "characters": [
@@ -610,7 +610,7 @@
       "Trench Officer",
       "Woman Controller"
     ],
-    "sentiment": 5.351060329067615
+    "sentiment": 5.070909090909092
   },
   "Rebel Blockade Runner": {
     "characters": [
@@ -623,7 +623,7 @@
       "Second Officer",
       "Trooper"
     ],
-    "sentiment": 5.201502824858731
+    "sentiment": 5.199500000000005
   },
   "Rebel Star Cruiser": {
     "characters": [
@@ -633,7 +633,7 @@
       "Rebel Pilot",
       "Wedge Antilles"
     ],
-    "sentiment": 5.255000000000004
+    "sentiment": 5.056666666666667
   },
   "Red Leader Starship": {
     "characters": [
@@ -642,14 +642,14 @@
       "Luke Skywalker",
       "Red Leader"
     ],
-    "sentiment": 5.379708333333335
+    "sentiment": 5.456000000000001
   },
   "Red Ten's Cockpit": {
     "characters": [
       "Luke Skywalker",
       "Red Ten"
     ],
-    "sentiment": 5.509189189189188
+    "sentiment": 5.208
   },
   "Ridge": {
     "characters": [
@@ -669,13 +669,13 @@
       "C-3PO",
       "Leia Organa"
     ],
-    "sentiment": 5.092764227642278
+    "sentiment": 4.958260869565219
   },
   "Sandcrawler": {
     "characters": [
       "C-3PO"
     ],
-    "sentiment": 5.270330578512399
+    "sentiment": 5.22012658227848
   },
   "Scout Campsite": {
     "characters": [
@@ -691,14 +691,14 @@
       "Lando Calrissian",
       "Luke Skywalker"
     ],
-    "sentiment": 5.180980683506677
+    "sentiment": 5.272571428571427
   },
   "Snowspeeder": {
     "characters": [
       "Han Solo",
       "Zev"
     ],
-    "sentiment": 5.437887323943664
+    "sentiment": 5.544999999999999
   },
   "Space": {
     "characters": [
@@ -709,7 +709,7 @@
       "Return Of The Jedi",
       "Wedge Antilles"
     ],
-    "sentiment": 5.329207048458155
+    "sentiment": 5.365079365079363
   },
   "Star Cruiser": {
     "characters": [
@@ -759,7 +759,7 @@
       "Trooper",
       "Woman"
     ],
-    "sentiment": 5.2937160048134855
+    "sentiment": 5.360967741935483
   },
   "Throne Room": {
     "characters": [
@@ -791,14 +791,14 @@
       "Second Controller",
       "Veers"
     ],
-    "sentiment": 5.332822033898283
+    "sentiment": 5.097083333333336
   },
   "Wedge's Cockpit": {
     "characters": [
       "Red Leader",
       "Wedge Antilles"
     ],
-    "sentiment": 5.1865116279069765
+    "sentiment": 5.195087719298247
   },
   "Wedge's Fighter": {
     "characters": [
@@ -812,7 +812,7 @@
       "Luke Skywalker",
       "Wedge Antilles"
     ],
-    "sentiment": 5.359999999999999
+    "sentiment": 5.163076923076923
   },
   "Wingman's Cockpit": {
     "characters": [
@@ -844,6 +844,6 @@
       "Luke Skywalker",
       "Zev"
     ],
-    "sentiment": 5.482222222222223
+    "sentiment": 5.410322580645162
   }
 }

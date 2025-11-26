@@ -246,13 +246,11 @@
   "Ewok Village Square": {
     "characters": [
       "C-3PO",
-      "End Credits Over Star Field",
-      "Fade Out",
       "Han Solo",
       "Leia Organa",
       "Luke Skywalker"
     ],
-    "sentiment": 5.341570576540752
+    "sentiment": 5.304951923076929
   },
   "Ext/Int": {
     "characters": [
@@ -289,12 +287,6 @@
       "Leia Organa"
     ],
     "sentiment": 5.240727272727274
-  },
-  "Galaxy": {
-    "characters": [
-      "End Credits Fade In And Out Over Background"
-    ],
-    "sentiment": null
   },
   "Gantry": {
     "characters": [
@@ -516,7 +508,6 @@
       "Biggs Darklighter",
       "C-3PO",
       "Control Officer",
-      "End Credits Over Stars",
       "Gold Five",
       "Gold Leader",
       "Han Solo",
@@ -530,7 +521,7 @@
       "Technician",
       "Wedge Antilles"
     ],
-    "sentiment": 5.360679611650467
+    "sentiment": 5.350951704545436
   },
   "Millennium Falcon": {
     "characters": [

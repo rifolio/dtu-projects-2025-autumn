@@ -24,10 +24,6 @@
     "Leia Organa": 2,
     "Luke Skywalker": 2
   },
-  "Area": {
-    "Han Solo": 1,
-    "Luke Skywalker": 1
-  },
   "Assistant Officer": {
     "Deck Officer": 1,
     "Han Solo": 1
@@ -73,7 +69,6 @@
     "C-3PO": 1,
     "Camie": 2,
     "Chief": 1,
-    "Day": 1,
     "Deak": 1,
     "Fixer": 2,
     "Gold Leader": 1,
@@ -122,7 +117,6 @@
     "Commander": 1,
     "Creature": 1,
     "Darth Vader": 1,
-    "Day": 1,
     "Deck Officer": 1,
     "Derlin": 1,
     "First Officer": 1,
@@ -157,7 +151,6 @@
   },
   "Camie": {
     "Biggs Darklighter": 2,
-    "Day": 1,
     "Deak": 1,
     "Fixer": 2,
     "Luke Skywalker": 2
@@ -254,13 +247,6 @@
     "Voice": 2,
     "Wingman'S Voice": 1
   },
-  "Day": {
-    "Biggs Darklighter": 1,
-    "C-3PO": 1,
-    "Camie": 1,
-    "Fixer": 1,
-    "Luke Skywalker": 2
-  },
   "Deak": {
     "Biggs Darklighter": 1,
     "Camie": 1,
@@ -292,12 +278,6 @@
     "Darth Vader": 6,
     "Luke Skywalker": 3
   },
-  "End Credits Over Star Field": {
-    "Fade Out": 1
-  },
-  "Fade Out": {
-    "End Credits Over Star Field": 1
-  },
   "First Controller": {
     "Boba Fett": 1,
     "Darth Vader": 1,
@@ -322,7 +302,6 @@
   "Fixer": {
     "Biggs Darklighter": 2,
     "Camie": 2,
-    "Day": 1,
     "Deak": 1,
     "Luke Skywalker": 2
   },
@@ -383,7 +362,6 @@
   "Han Solo": {
     "Ackbar": 1,
     "Announcer": 2,
-    "Area": 1,
     "Assistant Officer": 1,
     "Ben'S Voice": 1,
     "Boba Fett": 1,
@@ -540,7 +518,6 @@
     "Ackbar": 1,
     "Anakin": 1,
     "Announcer": 2,
-    "Area": 1,
     "Bartender": 1,
     "Base Voice": 1,
     "Ben'S Voice": 4,
@@ -554,7 +531,6 @@
     "Creature": 3,
     "Dack": 3,
     "Darth Vader": 7,
-    "Day": 2,
     "Deak": 1,
     "Dodonna": 1,
     "Emperor Palpatine": 3,

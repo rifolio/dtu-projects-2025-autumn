@@ -82,20 +82,19 @@
       "Man'S Voice": 1,
       "Second Threepio": 1
     },
-    "sentiment": 5.467
+    "sentiment": 5.468
   },
   "Creature's House": {
     "characters": {
-      "Ben'S Voice": 1,
       "Creature": 1,
       "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1,
       "Yoda": 1
     },
     "sentiment": 5.352
   },
   "Dagobah": {
     "characters": {
-      "Ben'S Voice": 1,
       "Creature": 1,
       "Luke Skywalker": 6,
       "Obi-Wan Kenobi": 1,
@@ -121,9 +120,7 @@
   "Death Star": {
     "characters": {
       "Anakin": 1,
-      "Area": 1,
       "Astro-Officer": 1,
-      "Ben'S Voice": 1,
       "C-3PO": 12,
       "Darth Vader": 17,
       "Death Star Intercom Voice": 5,
@@ -140,7 +137,7 @@
       "Leia Organa": 12,
       "Luke Skywalker": 22,
       "Motti": 2,
-      "Obi-Wan Kenobi": 2,
+      "Obi-Wan Kenobi": 3,
       "Officer": 6,
       "Officer Cass": 1,
       "Operator": 1,
@@ -245,8 +242,6 @@
   "Ewok Village Square": {
     "characters": {
       "C-3PO": 1,
-      "End Credits Over Star Field": 1,
-      "Fade Out": 1,
       "Han Solo": 1,
       "Leia Organa": 1,
       "Luke Skywalker": 1
@@ -467,10 +462,10 @@
   },
   "Luke's X-Wing": {
     "characters": {
-      "Ben'S Voice": 4,
       "Biggs Darklighter": 2,
       "Gold Five": 1,
       "Luke Skywalker": 24,
+      "Obi-Wan Kenobi": 4,
       "Red Eleven": 1,
       "Red Leader": 5,
       "Red Leader'S Voice": 1,
@@ -486,13 +481,13 @@
   },
   "Main Hangar": {
     "characters": {
-      "Ben'S Voice": 1,
       "Biggs Darklighter": 1,
       "C-3PO": 2,
       "Chief": 1,
       "Han Solo": 3,
       "Leia Organa": 4,
       "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1,
       "Red Leader": 1
     },
     "sentiment": 5.033
@@ -753,7 +748,6 @@
       "C-3PO": 11,
       "Camie": 1,
       "Creature": 1,
-      "Day": 2,
       "First Trooper": 1,
       "Fixer": 1,
       "Han Solo": 2,

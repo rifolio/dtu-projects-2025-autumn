@@ -33,13 +33,6 @@
     },
     "sentiment": 5.182
   },
-  "Area": {
-    "connections": {
-      "Han Solo": 1,
-      "Luke Skywalker": 1
-    },
-    "sentiment": null
-  },
   "Assistant Officer": {
     "connections": {
       "Deck Officer": 1,
@@ -69,21 +62,6 @@
     },
     "sentiment": null
   },
-  "Ben'S Voice": {
-    "connections": {
-      "Biggs Darklighter": 1,
-      "C-3PO": 1,
-      "Chief": 1,
-      "Creature": 1,
-      "Han Solo": 1,
-      "Leia Organa": 2,
-      "Luke Skywalker": 4,
-      "Obi-Wan Kenobi": 1,
-      "Red Leader": 1,
-      "Yoda": 2
-    },
-    "sentiment": 5.337
-  },
   "Beru Lars": {
     "connections": {
       "C-3PO": 2,
@@ -103,16 +81,15 @@
   },
   "Biggs Darklighter": {
     "connections": {
-      "Ben'S Voice": 1,
       "C-3PO": 1,
       "Camie": 2,
       "Chief": 1,
-      "Day": 1,
       "Deak": 1,
       "Fixer": 2,
       "Gold Leader": 1,
       "Leia Organa": 1,
       "Luke Skywalker": 4,
+      "Obi-Wan Kenobi": 1,
       "Red Leader": 3,
       "Red Seven": 1,
       "Wedge Antilles": 2
@@ -157,7 +134,6 @@
       "Ackbar": 1,
       "Announcer": 2,
       "Bartender": 1,
-      "Ben'S Voice": 1,
       "Beru Lars": 2,
       "Bib": 2,
       "Biggs Darklighter": 1,
@@ -168,7 +144,6 @@
       "Commander": 1,
       "Creature": 1,
       "Darth Vader": 1,
-      "Day": 1,
       "Deck Officer": 1,
       "Derlin": 1,
       "First Officer": 1,
@@ -188,7 +163,7 @@
       "Man'S Voice": 1,
       "Mon Mothma": 1,
       "Ninedenine": 1,
-      "Obi-Wan Kenobi": 6,
+      "Obi-Wan Kenobi": 7,
       "Oola": 1,
       "Owen Lars": 2,
       "Red Leader": 1,
@@ -206,12 +181,11 @@
   "Camie": {
     "connections": {
       "Biggs Darklighter": 2,
-      "Day": 1,
       "Deak": 1,
       "Fixer": 2,
       "Luke Skywalker": 2
     },
-    "sentiment": 5.292
+    "sentiment": 5.293
   },
   "Captain": {
     "connections": {
@@ -222,11 +196,11 @@
   },
   "Chief": {
     "connections": {
-      "Ben'S Voice": 1,
       "Biggs Darklighter": 1,
       "C-3PO": 1,
       "Leia Organa": 1,
       "Luke Skywalker": 1,
+      "Obi-Wan Kenobi": 1,
       "Red Leader": 1
     },
     "sentiment": 5.533
@@ -280,11 +254,10 @@
   "Creature": {
     "connections": {
       "Bartender": 1,
-      "Ben'S Voice": 1,
       "C-3PO": 1,
       "Human": 1,
       "Luke Skywalker": 3,
-      "Obi-Wan Kenobi": 1,
+      "Obi-Wan Kenobi": 2,
       "Strange Voice": 1,
       "Yoda": 1
     },
@@ -335,16 +308,6 @@
     },
     "sentiment": 5.3
   },
-  "Day": {
-    "connections": {
-      "Biggs Darklighter": 1,
-      "C-3PO": 1,
-      "Camie": 1,
-      "Fixer": 1,
-      "Luke Skywalker": 2
-    },
-    "sentiment": 5.108
-  },
   "Deak": {
     "connections": {
       "Biggs Darklighter": 1,
@@ -394,18 +357,6 @@
     },
     "sentiment": 5.405
   },
-  "End Credits Over Star Field": {
-    "connections": {
-      "Fade Out": 1
-    },
-    "sentiment": null
-  },
-  "Fade Out": {
-    "connections": {
-      "End Credits Over Star Field": 1
-    },
-    "sentiment": null
-  },
   "First Controller": {
     "connections": {
       "Boba Fett": 1,
@@ -440,7 +391,6 @@
     "connections": {
       "Biggs Darklighter": 2,
       "Camie": 2,
-      "Day": 1,
       "Deak": 1,
       "Luke Skywalker": 2
     },
@@ -531,9 +481,7 @@
     "connections": {
       "Ackbar": 1,
       "Announcer": 2,
-      "Area": 1,
       "Assistant Officer": 1,
-      "Ben'S Voice": 1,
       "Boba Fett": 1,
       "Boushh": 1,
       "Bunker Commander": 1,
@@ -554,7 +502,7 @@
       "Luke Skywalker": 43,
       "Man'S Voice": 1,
       "Mon Mothma": 1,
-      "Obi-Wan Kenobi": 10,
+      "Obi-Wan Kenobi": 11,
       "Officer": 1,
       "Rieekan": 3,
       "Second Threepio": 1,
@@ -680,7 +628,6 @@
     "connections": {
       "Ackbar": 1,
       "Announcer": 2,
-      "Ben'S Voice": 2,
       "Beru Lars": 1,
       "Biggs Darklighter": 1,
       "Boba Fett": 1,
@@ -703,7 +650,7 @@
       "Luke Skywalker": 26,
       "Mon Mothma": 1,
       "Motti": 1,
-      "Obi-Wan Kenobi": 1,
+      "Obi-Wan Kenobi": 3,
       "Pilots": 1,
       "Red Leader": 1,
       "Rieekan": 4,
@@ -727,10 +674,8 @@
       "Ackbar": 1,
       "Anakin": 1,
       "Announcer": 2,
-      "Area": 1,
       "Bartender": 1,
       "Base Voice": 1,
-      "Ben'S Voice": 4,
       "Beru Lars": 3,
       "Bib": 1,
       "Biggs Darklighter": 4,
@@ -741,7 +686,6 @@
       "Creature": 3,
       "Dack": 3,
       "Darth Vader": 7,
-      "Day": 2,
       "Deak": 1,
       "Dodonna": 1,
       "Emperor Palpatine": 3,
@@ -759,7 +703,7 @@
       "Man'S Voice": 1,
       "Medical Droid": 1,
       "Mon Mothma": 1,
-      "Obi-Wan Kenobi": 22,
+      "Obi-Wan Kenobi": 25,
       "Officer": 1,
       "Owen Lars": 3,
       "Red Eleven": 1,
@@ -805,7 +749,7 @@
       "Leia Organa": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.017
+    "sentiment": 5.018
   },
   "Motti": {
     "connections": {
@@ -843,20 +787,22 @@
   "Obi-Wan Kenobi": {
     "connections": {
       "Bartender": 1,
-      "Ben'S Voice": 1,
-      "C-3PO": 6,
-      "Creature": 1,
+      "Biggs Darklighter": 1,
+      "C-3PO": 7,
+      "Chief": 1,
+      "Creature": 2,
       "Darth Vader": 1,
       "Gantry Officer": 1,
-      "Han Solo": 10,
+      "Han Solo": 11,
       "Human": 1,
-      "Leia Organa": 1,
-      "Luke Skywalker": 22,
+      "Leia Organa": 3,
+      "Luke Skywalker": 25,
+      "Red Leader": 1,
       "Speeder Lot": 1,
       "Trooper": 2,
-      "Yoda": 1
+      "Yoda": 2
     },
-    "sentiment": 5.313
+    "sentiment": 5.337
   },
   "Officer": {
     "connections": {
@@ -983,13 +929,13 @@
   },
   "Red Leader": {
     "connections": {
-      "Ben'S Voice": 1,
       "Biggs Darklighter": 3,
       "C-3PO": 1,
       "Chief": 1,
       "Gold Leader": 1,
       "Leia Organa": 1,
       "Luke Skywalker": 3,
+      "Obi-Wan Kenobi": 1,
       "Red Nine'S Voice": 1,
       "Red Ten": 1,
       "Wedge Antilles": 3
@@ -1231,10 +1177,9 @@
   },
   "Yoda": {
     "connections": {
-      "Ben'S Voice": 2,
       "Creature": 1,
       "Luke Skywalker": 6,
-      "Obi-Wan Kenobi": 1
+      "Obi-Wan Kenobi": 2
     },
     "sentiment": 5.355
   },

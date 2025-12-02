@@ -20,7 +20,7 @@
       "Darth Vader": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.577777777777778
+    "sentiment": 5.578
   },
   "Announcer": {
     "connections": {
@@ -31,7 +31,7 @@
       "Leia Organa": 2,
       "Luke Skywalker": 2
     },
-    "sentiment": 5.182222222222222
+    "sentiment": 5.182
   },
   "Area": {
     "connections": {
@@ -45,13 +45,13 @@
       "Deck Officer": 1,
       "Han Solo": 1
     },
-    "sentiment": 5.456666666666667
+    "sentiment": 5.457
   },
   "Astro-Officer": {
     "connections": {
       "Darth Vader": 1
     },
-    "sentiment": 5.362727272727273
+    "sentiment": 5.363
   },
   "Bartender": {
     "connections": {
@@ -61,7 +61,7 @@
       "Luke Skywalker": 1,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.127217391304348
+    "sentiment": 5.127
   },
   "Base Voice": {
     "connections": {
@@ -82,7 +82,7 @@
       "Red Leader": 1,
       "Yoda": 2
     },
-    "sentiment": 5.3373684210526315
+    "sentiment": 5.337
   },
   "Beru Lars": {
     "connections": {
@@ -91,7 +91,7 @@
       "Luke Skywalker": 3,
       "Owen Lars": 3
     },
-    "sentiment": 5.429565217391304
+    "sentiment": 5.43
   },
   "Bib": {
     "connections": {
@@ -99,7 +99,7 @@
       "Jabba": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.047058823529412
+    "sentiment": 5.047
   },
   "Biggs Darklighter": {
     "connections": {
@@ -117,7 +117,7 @@
       "Red Seven": 1,
       "Wedge Antilles": 2
     },
-    "sentiment": 5.391861471861472
+    "sentiment": 5.392
   },
   "Boba Fett": {
     "connections": {
@@ -131,7 +131,7 @@
       "Piett": 1,
       "Second Controller": 1
     },
-    "sentiment": 5.325151515151515
+    "sentiment": 5.325
   },
   "Boushh": {
     "connections": {
@@ -141,7 +141,7 @@
       "Leia Organa": 1,
       "Oola": 1
     },
-    "sentiment": 5.767272727272727
+    "sentiment": 5.767
   },
   "Bunker Commander": {
     "connections": {
@@ -201,7 +201,7 @@
       "Trooper": 2,
       "Trooper Voice": 1
     },
-    "sentiment": 5.3218746389370315
+    "sentiment": 5.322
   },
   "Camie": {
     "connections": {
@@ -211,14 +211,14 @@
       "Fixer": 2,
       "Luke Skywalker": 2
     },
-    "sentiment": 5.2925
+    "sentiment": 5.292
   },
   "Captain": {
     "connections": {
       "Chief Pilot": 1,
       "Controller": 1
     },
-    "sentiment": 5.441333333333334
+    "sentiment": 5.441
   },
   "Chief": {
     "connections": {
@@ -229,13 +229,13 @@
       "Luke Skywalker": 1,
       "Red Leader": 1
     },
-    "sentiment": 5.533333333333333
+    "sentiment": 5.533
   },
   "Chief Pilot": {
     "connections": {
       "Captain": 1
     },
-    "sentiment": 5.1866666666666665
+    "sentiment": 5.187
   },
   "Commander": {
     "connections": {
@@ -248,20 +248,20 @@
       "Piett": 2,
       "Second Officer": 1
     },
-    "sentiment": 5.128452380952381
+    "sentiment": 5.128
   },
   "Communications Officer": {
     "connections": {
       "Needa": 1,
       "Tracking Officer": 1
     },
-    "sentiment": 5.431428571428571
+    "sentiment": 5.431
   },
   "Control Room Commander": {
     "connections": {
       "Second Commander": 1
     },
-    "sentiment": 5.390000000000001
+    "sentiment": 5.39
   },
   "Controller": {
     "connections": {
@@ -288,14 +288,14 @@
       "Strange Voice": 1,
       "Yoda": 1
     },
-    "sentiment": 5.3848497854077255
+    "sentiment": 5.385
   },
   "Dack": {
     "connections": {
       "Announcer": 1,
       "Luke Skywalker": 3
     },
-    "sentiment": 5.429677419354839
+    "sentiment": 5.43
   },
   "Darth Vader": {
     "connections": {
@@ -333,7 +333,7 @@
       "Voice": 2,
       "Wingman'S Voice": 1
     },
-    "sentiment": 5.29983771251932
+    "sentiment": 5.3
   },
   "Day": {
     "connections": {
@@ -359,7 +359,7 @@
       "Darth Vader": 1,
       "Grand Moff Tarkin": 2
     },
-    "sentiment": 5.418297872340426
+    "sentiment": 5.418
   },
   "Deck Officer": {
     "connections": {
@@ -367,7 +367,7 @@
       "C-3PO": 1,
       "Han Solo": 2
     },
-    "sentiment": 5.188095238095238
+    "sentiment": 5.188
   },
   "Derlin": {
     "connections": {
@@ -377,7 +377,7 @@
       "Lieutenant": 1,
       "Pilots": 1
     },
-    "sentiment": 5.416666666666667
+    "sentiment": 5.417
   },
   "Dodonna": {
     "connections": {
@@ -385,14 +385,14 @@
       "Luke Skywalker": 1,
       "Wedge Antilles": 1
     },
-    "sentiment": 5.227462686567164
+    "sentiment": 5.227
   },
   "Emperor Palpatine": {
     "connections": {
       "Darth Vader": 6,
       "Luke Skywalker": 3
     },
-    "sentiment": 5.404842300556586
+    "sentiment": 5.405
   },
   "End Credits Over Star Field": {
     "connections": {
@@ -421,7 +421,7 @@
       "First Trooper": 1,
       "Trooper": 1
     },
-    "sentiment": 5.833333333333333
+    "sentiment": 5.833
   },
   "First Trooper": {
     "connections": {
@@ -434,7 +434,7 @@
       "Second Trooper": 2,
       "Trooper": 1
     },
-    "sentiment": 5.075238095238095
+    "sentiment": 5.075
   },
   "Fixer": {
     "connections": {
@@ -444,7 +444,7 @@
       "Deak": 1,
       "Luke Skywalker": 2
     },
-    "sentiment": 5.2829999999999995
+    "sentiment": 5.283
   },
   "Gantry Officer": {
     "connections": {
@@ -453,7 +453,7 @@
       "Luke Skywalker": 1,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.275384615384616
+    "sentiment": 5.275
   },
   "General Madine": {
     "connections": {
@@ -465,13 +465,13 @@
       "Luke Skywalker": 1,
       "Mon Mothma": 1
     },
-    "sentiment": 5.287586206896552
+    "sentiment": 5.288
   },
   "Gold Five": {
     "connections": {
       "Massassi Intercom Voice": 1
     },
-    "sentiment": 5.287916666666667
+    "sentiment": 5.288
   },
   "Gold Leader": {
     "connections": {
@@ -481,7 +481,7 @@
       "Red Leader": 1,
       "Wedge Antilles": 1
     },
-    "sentiment": 5.352941176470588
+    "sentiment": 5.353
   },
   "Grand Moff Tarkin": {
     "connections": {
@@ -497,7 +497,7 @@
       "Trooper": 1,
       "Voice": 2
     },
-    "sentiment": 5.366303630363037
+    "sentiment": 5.366
   },
   "Gray Leader": {
     "connections": {
@@ -505,13 +505,13 @@
       "Lando Calrissian": 1,
       "Wedge Antilles": 1
     },
-    "sentiment": 5.453333333333333
+    "sentiment": 5.453
   },
   "Greedo": {
     "connections": {
       "Han Solo": 1
     },
-    "sentiment": 5.381219512195122
+    "sentiment": 5.381
   },
   "Green Leader": {
     "connections": {
@@ -519,13 +519,13 @@
       "Lando Calrissian": 1,
       "Wedge Antilles": 1
     },
-    "sentiment": 6.173333333333333
+    "sentiment": 6.173
   },
   "Guard": {
     "connections": {
       "Darth Vader": 1
     },
-    "sentiment": 5.192142857142857
+    "sentiment": 5.192
   },
   "Han Solo": {
     "connections": {
@@ -564,7 +564,7 @@
       "Trooper": 2,
       "Zev": 1
     },
-    "sentiment": 5.682222222222222
+    "sentiment": 5.682
   },
   "Head Controller": {
     "connections": {
@@ -573,7 +573,7 @@
       "Han Solo": 1,
       "Leia Organa": 1
     },
-    "sentiment": 5.6899999999999995
+    "sentiment": 5.69
   },
   "Hobbie": {
     "connections": {
@@ -591,7 +591,7 @@
       "Luke Skywalker": 1,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.308181818181819
+    "sentiment": 5.308
   },
   "Imperial Officer": {
     "connections": {
@@ -605,7 +605,7 @@
       "Rebel Officer": 1,
       "Trooper": 1
     },
-    "sentiment": 5.2526829268292685
+    "sentiment": 5.253
   },
   "Imperial Soldier": {
     "connections": {
@@ -624,7 +624,7 @@
       "Luke Skywalker": 1,
       "Officer": 1
     },
-    "sentiment": 5.216190476190476
+    "sentiment": 5.216
   },
   "Jabba": {
     "connections": {
@@ -635,7 +635,7 @@
       "Luke Skywalker": 2,
       "Oola": 1
     },
-    "sentiment": 5.340202020202019
+    "sentiment": 5.34
   },
   "Janson": {
     "connections": {
@@ -647,7 +647,7 @@
     "connections": {
       "Darth Vader": 1
     },
-    "sentiment": 5.589444444444444
+    "sentiment": 5.589
   },
   "Lando Calrissian": {
     "connections": {
@@ -674,7 +674,7 @@
       "Wedge Antilles": 6,
       "Y-Wing Pilot": 1
     },
-    "sentiment": 5.318701570680628
+    "sentiment": 5.319
   },
   "Leia Organa": {
     "connections": {
@@ -713,14 +713,14 @@
       "Technician": 1,
       "Willard": 1
     },
-    "sentiment": 5.3341254858411995
+    "sentiment": 5.334
   },
   "Lieutenant": {
     "connections": {
       "C-3PO": 1,
       "Derlin": 1
     },
-    "sentiment": 5.162222222222223
+    "sentiment": 5.162
   },
   "Luke Skywalker": {
     "connections": {
@@ -773,7 +773,7 @@
       "Yoda": 6,
       "Zev": 1
     },
-    "sentiment": 5.462222222222222
+    "sentiment": 5.462
   },
   "Man'S Voice": {
     "connections": {
@@ -781,19 +781,19 @@
       "Han Solo": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.406153846153846
+    "sentiment": 5.406
   },
   "Massassi Intercom Voice": {
     "connections": {
       "Gold Five": 1
     },
-    "sentiment": 5.0408333333333335
+    "sentiment": 5.041
   },
   "Medical Droid": {
     "connections": {
       "Luke Skywalker": 1
     },
-    "sentiment": 5.226666666666667
+    "sentiment": 5.227
   },
   "Mon Mothma": {
     "connections": {
@@ -805,7 +805,7 @@
       "Leia Organa": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.0175
+    "sentiment": 5.017
   },
   "Motti": {
     "connections": {
@@ -814,7 +814,7 @@
       "Leia Organa": 1,
       "Tagge": 1
     },
-    "sentiment": 5.130632911392405
+    "sentiment": 5.131
   },
   "Navigator": {
     "connections": {
@@ -832,13 +832,13 @@
       "Piett": 1,
       "Tracking Officer": 1
     },
-    "sentiment": 5.161558441558442
+    "sentiment": 5.162
   },
   "Ninedenine": {
     "connections": {
       "C-3PO": 1
     },
-    "sentiment": 5.4788461538461535
+    "sentiment": 5.479
   },
   "Obi-Wan Kenobi": {
     "connections": {
@@ -856,7 +856,7 @@
       "Trooper": 2,
       "Yoda": 1
     },
-    "sentiment": 5.312527392257122
+    "sentiment": 5.313
   },
   "Officer": {
     "connections": {
@@ -871,14 +871,14 @@
       "Second Trooper": 1,
       "Voice": 2
     },
-    "sentiment": 5.383516483516483
+    "sentiment": 5.384
   },
   "Officer Cass": {
     "connections": {
       "Darth Vader": 1,
       "Grand Moff Tarkin": 1
     },
-    "sentiment": 5.3152380952380955
+    "sentiment": 5.315
   },
   "Oola": {
     "connections": {
@@ -886,7 +886,7 @@
       "C-3PO": 1,
       "Jabba": 1
     },
-    "sentiment": 5.3475
+    "sentiment": 5.348
   },
   "Operator": {
     "connections": {
@@ -900,7 +900,7 @@
       "C-3PO": 2,
       "Luke Skywalker": 3
     },
-    "sentiment": 5.3420000000000005
+    "sentiment": 5.342
   },
   "Ozzel": {
     "connections": {
@@ -908,7 +908,7 @@
       "Piett": 2,
       "Veers": 1
     },
-    "sentiment": 5.363783783783784
+    "sentiment": 5.364
   },
   "Piett": {
     "connections": {
@@ -922,7 +922,7 @@
       "Second Controller": 1,
       "Veers": 1
     },
-    "sentiment": 5.472846715328467
+    "sentiment": 5.473
   },
   "Pilot": {
     "connections": {
@@ -944,13 +944,13 @@
     "connections": {
       "Red Nine": 1
     },
-    "sentiment": 5.419999999999999
+    "sentiment": 5.42
   },
   "Rebel Captain": {
     "connections": {
       "Rebel Fighter": 1
     },
-    "sentiment": 5.543809523809524
+    "sentiment": 5.544
   },
   "Rebel Fighter": {
     "connections": {
@@ -963,7 +963,7 @@
       "Darth Vader": 1,
       "Imperial Officer": 1
     },
-    "sentiment": 5.202222222222222
+    "sentiment": 5.202
   },
   "Rebel Pilot": {
     "connections": {
@@ -973,13 +973,13 @@
       "Wedge Antilles": 2,
       "Y-Wing Pilot": 1
     },
-    "sentiment": 5.6066666666666665
+    "sentiment": 5.607
   },
   "Red Eleven": {
     "connections": {
       "Luke Skywalker": 1
     },
-    "sentiment": 5.506666666666667
+    "sentiment": 5.507
   },
   "Red Leader": {
     "connections": {
@@ -994,32 +994,32 @@
       "Red Ten": 1,
       "Wedge Antilles": 3
     },
-    "sentiment": 5.448435754189944
+    "sentiment": 5.448
   },
   "Red Nine": {
     "connections": {
       "Porkins": 1
     },
-    "sentiment": 5.446666666666666
+    "sentiment": 5.447
   },
   "Red Nine'S Voice": {
     "connections": {
       "Red Leader": 1
     },
-    "sentiment": 5.0600000000000005
+    "sentiment": 5.06
   },
   "Red Seven": {
     "connections": {
       "Biggs Darklighter": 1
     },
-    "sentiment": 5.526666666666666
+    "sentiment": 5.527
   },
   "Red Ten": {
     "connections": {
       "Luke Skywalker": 1,
       "Red Leader": 1
     },
-    "sentiment": 5.328965517241379
+    "sentiment": 5.329
   },
   "Red Three": {
     "connections": {
@@ -1047,7 +1047,7 @@
       "Leia Organa": 4,
       "Senior Controller": 1
     },
-    "sentiment": 5.452405063291139
+    "sentiment": 5.452
   },
   "Second Commander": {
     "connections": {
@@ -1071,7 +1071,7 @@
       "Leia Organa": 1,
       "Officer": 1
     },
-    "sentiment": 4.937333333333333
+    "sentiment": 4.937
   },
   "Second Threepio": {
     "connections": {
@@ -1079,14 +1079,14 @@
       "Han Solo": 1,
       "Lando Calrissian": 1
     },
-    "sentiment": 4.8100000000000005
+    "sentiment": 4.81
   },
   "Second Trooper": {
     "connections": {
       "First Trooper": 2,
       "Officer": 1
     },
-    "sentiment": 4.906666666666666
+    "sentiment": 4.907
   },
   "Senior Controller": {
     "connections": {
@@ -1095,14 +1095,14 @@
       "Leia Organa": 1,
       "Rieekan": 1
     },
-    "sentiment": 5.035294117647059
+    "sentiment": 5.035
   },
   "Speeder Lot": {
     "connections": {
       "Luke Skywalker": 1,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.309565217391304
+    "sentiment": 5.31
   },
   "Stormtrooper": {
     "connections": {
@@ -1111,7 +1111,7 @@
       "Han Solo": 2,
       "Leia Organa": 2
     },
-    "sentiment": 5.243913043478261
+    "sentiment": 5.244
   },
   "Strange Voice": {
     "connections": {
@@ -1119,7 +1119,7 @@
       "Creature": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 6.253333333333333
+    "sentiment": 6.253
   },
   "Tagge": {
     "connections": {
@@ -1127,7 +1127,7 @@
       "Grand Moff Tarkin": 1,
       "Motti": 1
     },
-    "sentiment": 5.211578947368421
+    "sentiment": 5.212
   },
   "Technician": {
     "connections": {
@@ -1136,20 +1136,20 @@
       "Leia Organa": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.622857142857143
+    "sentiment": 5.623
   },
   "Tracking Officer": {
     "connections": {
       "Communications Officer": 1,
       "Needa": 1
     },
-    "sentiment": 5.1883333333333335
+    "sentiment": 5.188
   },
   "Trench Officer": {
     "connections": {
       "Controller": 1
     },
-    "sentiment": 5.716666666666666
+    "sentiment": 5.717
   },
   "Trooper": {
     "connections": {
@@ -1163,13 +1163,13 @@
       "Luke Skywalker": 2,
       "Obi-Wan Kenobi": 2
     },
-    "sentiment": 5.280449999999999
+    "sentiment": 5.28
   },
   "Trooper Voice": {
     "connections": {
       "C-3PO": 1
     },
-    "sentiment": 5.913333333333333
+    "sentiment": 5.913
   },
   "Veers": {
     "connections": {
@@ -1178,7 +1178,7 @@
       "Piett": 1,
       "Pilot": 1
     },
-    "sentiment": 5.50375
+    "sentiment": 5.504
   },
   "Voice": {
     "connections": {
@@ -1186,7 +1186,7 @@
       "Grand Moff Tarkin": 2,
       "Officer": 2
     },
-    "sentiment": 5.1088
+    "sentiment": 5.109
   },
   "Wedge Antilles": {
     "connections": {
@@ -1207,7 +1207,7 @@
       "Red Three": 1,
       "Red Two": 1
     },
-    "sentiment": 5.376826347305389
+    "sentiment": 5.377
   },
   "Willard": {
     "connections": {
@@ -1236,13 +1236,13 @@
       "Luke Skywalker": 6,
       "Obi-Wan Kenobi": 1
     },
-    "sentiment": 5.354956672443674
+    "sentiment": 5.355
   },
   "Zev": {
     "connections": {
       "Han Solo": 1,
       "Luke Skywalker": 1
     },
-    "sentiment": 5.570285714285714
+    "sentiment": 5.57
   }
 }
